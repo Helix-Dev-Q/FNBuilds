@@ -43,7 +43,7 @@ ___
 - EAC Protection: Active on builds v30.10 and above. Requires a patched .exe or an alternative bypass method in order to launch it or you can use Project Carbon.
 
 ## Chapter 7 Season 3 
-| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|
 | 41.30-CL-55979764 | [1](https://github.com/polynite/fn-releases) | | | | |
 | 41.20-CL-55550516 | [1](https://github.com/polynite/fn-releases) | | | | |
@@ -54,7 +54,7 @@ ___
 | 41.00-CL-54618515 | [1](https://github.com/polynite/fn-releases) | | | | |
 
 ## Chapter 7 Season 2 
-| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|
 | 40.41-CL-54326946 | [1](https://github.com/polynite/fn-releases) | | | | |
 | 40.40-CL-53683214 | [1](https://github.com/polynite/fn-releases) | | | | |
@@ -66,7 +66,7 @@ ___
 | 40.00-CL-51746096 | [1](https://archive.org/download/40.00-CL-51746096/40.00-CL-51746096.zip) | [2](https://fn-builds.repressoh.it/40.00-CL-51746096.zip) | | | |
 
 ## Chapter 7 Season 1
-| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|
 | 39.51-CL-51287198 | [1](https://ia802807.us.archive.org/7/items/39.51-cl-51287198/39.51-CL-51287198.rar) | [2](https://transfer.it/t/MXp35FlDwZpZ) | [3](https://archive.org/download/fn-v39-archive/39.51-CL-51287198.zip) | | |
 | 39.50-CL-51043566 | [1](https://archive.org/download/fn-v39-archive/39.50-CL-51043566.zip) | | | | |
@@ -83,7 +83,7 @@ ___
 | 39.00-CL-48444883 | [1](https://archive.org/download/fn-v39-archive/39.00-CL-48444883.zip) | [2](https://cold-na-phx-5.gofile.io/download/web/073f610e-e5b0-4df7-82a5-2f89ab2d4a18/v39.00-CL-48444883.zip) | | | |
 
 ## Chapter 6 Season MS2 (Chapter 6 The Simpsons)
-| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|
 | 38.11-CL-48390828 | [1](https://archive.org/download/fn-v38-archive/38.11-CL-48390828.zip) | [2](https://fn-builds.repressoh.it/38.11-CL-48390828.zip) | | | |
 | 38.10-CL-47888945 | [1](https://archive.org/download/fn-v38-archive/38.10-CL-47888945.zip) | [2](https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.10-CL-47888945.zip) | [3](https://fn-builds.repressoh.it/38.10-CL-47888945.zip) | | |
@@ -91,7 +91,7 @@ ___
 | 38.00-CL-47291259 | [1](https://archive.org/download/fn-v38-archive/38.00-CL-47291259.zip) | [2](https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.00-CL-47291259.zip) | [3](https://fn-builds.repressoh.it/38.00-CL-47291259.zip) | | |
 
 ## Chapter 6 Season 4
-| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|
 | 37.51-CL-46968237 | [1](https://archive.org/download/fn-v37-archive/37.51-CL-46968237.zip) | | | | |
 | 37.50-CL-46578011 | [1](https://archive.org/download/fn-v37-archive/37.50-CL-46578011.zip) | | | | |
@@ -107,7 +107,7 @@ ___
 | 37.00-CL-33501951 | [1](https://archive.org/download/fn-v37-archive/37.00-CL-33501951.zip) | | | | |
 
 ## Chapter 6 Season 3
-| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|
 | 36.30-CL-44367537 | [1](https://archive.org/download/fn-v36-archive/36.30-CL-44367537.zip) | | | | |
 | 36.20-CL-44118662 | [1](https://archive.org/download/fn-v36-archive/36.20-CL-44118662.zip) | | | | |
@@ -119,7 +119,7 @@ ___
 | 36.00-CL-43214806 | [1](https://archive.org/download/fn-v36-archive/36.00-CL-43214806.zip) | | | | |
 
 ## Chapter 6 Season MS1 (Chapter 6 Galactic Battle)
-| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|
 | 35.20-CL-42911808 | [1](https://archive.org/download/fn-v35-archive/35.20-CL-42911808.zip) | | | | |
 | 35.10-CL-42906078 | [1](https://archive.org/download/fn-v35-archive/35.10-CL-42906078.zip) | | | | |
@@ -129,7 +129,7 @@ ___
 | 35.00-CL-41994699 | [1](https://archive.org/download/fn-v35-archive/35.00-CL-41994699.zip) | [2](https://archive.org/download/v35.00-CL-41994699/v35.00-CL-41994699.zip) | [3](https://fn-builds.repressoh.it/35.00-CL-41994699.zip) | | |
 
 ## Chapter 6 Season 2
-| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|
 | 34.40-CL-41753727 | [1](https://archive.org/download/34.10-cl-40567068/34.40-CL-41753727.rar) | [2](https://fn-builds.repressoh.it/34.40-CL-41753727.rar) | | | |
 | 34.30-CL-41588354 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch6/S2/34.30-CL-41588354.7z) | | | | |
@@ -144,7 +144,7 @@ ___
 
 ## Chapter 6 Season 1
 
-| Build | Download | Alternative Download 1 | Alternative Download 2 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 33.30-CL-39768313 | Downloadable by manifest |  |  |
 | 33.30-CL-39435251 | Downloadable by manifest |  |  |
@@ -157,7 +157,7 @@ ___
 
 ## Chapter 5 Season 5 (Chapter 5 Season Remix)
 
-| Build | Download | Alternative Download 1 | Alternative Download 2 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 32.11-CL-38371047 | [1](https://dl.dropboxusercontent.com/scl/fi/5djmb3ll3j1nghszjfsy0/32.11-CL-38371047.rar?rlkey=skt5ix1svq2xvj1kai8wf9jew) | [2](https://fn-builds.repressoh.it/32.11-CL-38371047.rar) |  |
 | 32.11-CL-38202817 | [1](https://drive.google.com/file/d/1X-K3cyFsqswUorH-2REQEKuLwh5oaEh8/view) | [2](https://r2.ploosh.dev/32.11.zip) |  |
@@ -167,7 +167,7 @@ ___
 
 ## Chapter 5 Season 4
 
-| Build | Download | Alternative Download 1 | Alternative Download 2 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 31.41-CL-37324991 | [1](https://gofile.io/d/5KnfUv) |  |  |
 | 31.40-CL-37076506 | Downloadable by manifest |  |  |
@@ -180,7 +180,7 @@ ___
 
 ## Chapter 5 Season 3
 
-| Build | Download | Alternative Download 1 | Alternative Download 2 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 30.40-CL-35235494 | Downloadable by manifest |  |  |
 | 30.30-CL-34891016 | Downloadable by manifest |  |  |
@@ -194,7 +194,7 @@ ___
 
 ## Chapter 5 Season 2
 
-| Build | Download | Alternative Download 1 | Alternative Download 2 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 29.40-CL-33629566 | [1](https://fn-builds.repressoh.it/29.40.rar) |  |  |
 | 29.40-CL-33502036 | [1](https://fn-builds.repressoh.it/29.40-CL-33502036.rar) |  |  |
@@ -209,7 +209,7 @@ ___
 
 ## Chapter 5 Season 1
 
-| Build | Download | Alternative Download 1 | Alternative Download 2 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 28.30-CL-31511038 | [1](https://archive.org/download/28.30-cl-31511038.7z/28.30-CL-31511038.7z) |  |  |
 | 28.20-CL-31286935 | [1](https://cold4.gofile.io/download/web/3b372482-5a4d-4102-a153-c4e29faa5626/c5s1.zip) |  |  |
@@ -222,7 +222,7 @@ ___
 
 ## Chapter 4 Season 5 (Chapter 4 Season OG)
 
-| Build | Download | Alternative Download 1 | Alternative Download 2 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 27.11-CL-29739262 | [1](https://gofile.io/d/MfJHqg) | [2](https://pub-220306d029514fbba26c1ffc2ef76e3e.r2.dev/27.11.rar) |  |
 | 27.10-CL-29552510 | [1](https://cdn.cbn.lol/27.10) |  |  |
@@ -230,7 +230,7 @@ ___
 
 ## Chapter 4 Season 4
 
-| Build | Download | Alternative Download 1 | Alternative Download 2 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 26.30-CL-28688692 | [1](https://fn-builds.repressoh.it/26.30-CL-28688692.zip) |  |  |
 | 26.30-CL-28509302 | [1](https://fn-builds.repressoh.it/26.30-CL-28509302.zip) |  |  |
@@ -241,7 +241,7 @@ ___
 
 ## Chapter 4 Season 3
 
-| Build | Download | Alternative Download 1 | Alternative Download 2 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 25.30-CL-26867995 | [1](https://archive.org/download/fn-v25-archive/builds/25.30-CL-26867995.7z) |  |  |
 | 25.20-CL-26629111 | [1](https://archive.org/download/fn-v25-archive/builds/25.20-CL-26629111.7z) | [2](https://fn-builds.repressoh.it/25.20.zip) |  |
@@ -253,7 +253,7 @@ ___
 
 ## Chapter 4 Season 2
 
-| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- | --- | --- |
 | 24.40-CL-25595478 | [1](https://gofile.io/d/cw0eee) | [2](https://fn-builds.repressoh.it/24.40-CL-25595478.zip) | [3](https://cold1.gofile.io/download/web/1944b17a-2576-434b-aa93-72fc7a19c4b5/24.40-CL-25595478.zip) |  |  |
 | 24.40-CL-25521145 | [1](https://archive.org/download/fn-v24-archive/24.40-CL-25521145.7z) |  |  |  |  |
@@ -272,7 +272,7 @@ ___
 
 ## Chapter 4 Season 1
 
-| Build | Download | Alternative Download 1 | Alternative Download 2 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 23.50-CL-24441668 | Downloadable by manifest |  |  |
 | 23.50-CL-24376996 | Lost |  |  |
@@ -287,7 +287,7 @@ ___
 
 ## Chapter 3 Season 4
 
-| Build | Download | Alternative Download 1 | Alternative Download 2 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 22.40-CL-23070899 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/22.20-CL-22600409.7z) | [2](https://gofile.io/d/uwbcWq) |  |
 | 22.30-CL-22803135 | Unavailable |  |  |
@@ -302,7 +302,7 @@ ___
 
 ## Chapter 3 Season 3
 
-| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- | --- |
 | 21.51-CL-21735703 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/S3/21.51-CL-21735703.7z) | [2](https://fn-builds.repressoh.it/21.51.7z) | [3](https://archive.org/download/fn-v21-archive/builds/21.51-CL-21735703.7z) |  |
 | 21.50-CL-21657658 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/21.50-CL-21657658.7z) | [2](https://archive.org/download/fn-v21-archive/builds/21.50-CL-21657658.7z) | [3](https://fn-builds.repressoh.it/21.50.zip) | [4](https://cdn.cbn.lol/21.50) |
@@ -322,7 +322,7 @@ ___
 
 ## Chapter 3 Season 2
 
-| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- | --- |
 | 20.40-CL-20244966 | [1](https://public.simplyblk.xyz/20.40.zip) | [2](https://fn-builds.repressoh.it/20.40-CL-20244966.zip) | [3](https://cdn.cbn.lol/20.40) |  |
 | 20.40-CL-20175294 | Lost |  |  |  |
@@ -337,9 +337,9 @@ ___
 
 ## Chapter 3 Season 1
 
-| Build | Download | Alternative Download 1 | Alternative Download 2 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
-| 19.40-CL-19215531 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/19.40-CL-19215531.7z) |  |  |
+| 19.40-CL-19215531 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/19.40-CL-19215531.7z) | [2](https://archive.org/download/fn-v19-archives/19.40-CL-19215531.7z) |  |
 | 19.40-CL-19167615 | Unavailable |  |  |
 | 19.30-CL-19027703 | [1](https://archive.org/download/fn-v19-archives/19.30-CL-19027703.7z) | [2](https://cdn.cbn.lol/19.30) |  |
 | 19.30-CL-18948597 | Unavailable |  |  |
@@ -354,7 +354,7 @@ ___
 
 ## Chapter 2 Season 8
 
-| Build | Download | Alternative Download 1 | Alternative Download 2 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 18.40-CL-18163738 | [1](https://cdn.cbn.lol/18.40) | [2](https://archive.org/download/fn-v18-archive/builds/18.40-CL-18163738.7z) |  |
 | 18.30-CL-17882303 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch2/18.30-CL-17882303.7z) | [2](https://archive.org/download/fn-v18-archive/builds/18.30-CL-17882303.7z) |  |
@@ -368,7 +368,7 @@ ___
 
 ## Chapter 2 Season 7
 
-| Build | Download | Alternative Download 1 | Alternative Download 2 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 17.50-CL-17388565 | [1](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view) | [2](https://archive.org/download/fn-v17-archive/builds/17.50-CL-17388565.7z) |  |
 | 17.50-CL-17328477 | Lost |  |  |
@@ -386,7 +386,7 @@ ___
 
 ## Chapter 2 Season 6
 
-| Build | Download | Alternative Download 1 | Alternative Download 2 |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 16.50-CL-16469788 | [1](https://archive.org/download/fn-v16-archive/builds/16.50-CL-16469788.7z) |  |  |
 | 16.50-CL-16432754 | [1](https://fnbuilds.site/%2B%2BFortnite%2BRelease-16.50-CL-16432754.rar) | [2](https://drive.google.com/file/d/15Rr_mkevAvbch1DF54ntHXyj139-HJOx/view) | [3](https://archive.org/download/fn-v16-archive/builds/16.50-CL-16432754.7z) |
@@ -407,7 +407,7 @@ ___
 
 ## Chapter 2 Season 5
 
-| Build | Download | Alternative Download | Alternative Download |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 15.50-CL-15570449 | Unavailable |  |  |
 | 15.50-CL-15526472 | [1](https://fnbuilds.site/%2B%2BFortnite%2BRelease-15.50-CL-15526472.zip) | [2](https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view) | [3](https://archive.org/download/fn-v15-archive/builds/15.50-CL-15526472.7z) |
@@ -429,7 +429,7 @@ ___
 
 ## Chapter 2 Season 4
 
-| Build | Download | Alternative Download | Alternative Download |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 14.60-CL-14786821 | [1](https://builds.astrafn.site/14.60.7z) | [2](https://archive.org/download/fn-v14-archive/builds/14.60-CL-14786821.7z) |  |
 | 14.60-CL-14785135 | Lost |  |  |
@@ -451,7 +451,7 @@ ___
 
 ## Chapter 2 Season 3
 
-| Build | Download | Alternative Download | Alternative Download |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 13.40-CL-14113327 | [1](https://gofile.io/d/JYmlgo) | [2](https://archive.org/download/fn-v13-archive/builds/13.40-CL-14113327.7z) |  |
 | 13.40-CL-14036559 | Unavailable |  |  |
@@ -464,7 +464,7 @@ ___
 
 ## Chapter 2 Season 2
 
-| Build | Download | Alternative Download | Alternative Download |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 12.61-CL-13498980 | [1](https://saturn.nxa.app/12.61.zip) | [2](https://archive.org/download/fn-v12-archive/builds/12.61-CL-13498980.7z) |  |
 | 12.60-CL-13477524 | [1](https://download.fn-archive.com/FortniteClient-12.60-CL-13477524.7z) |  |  |
@@ -487,7 +487,7 @@ ___
 
 ## Chapter 2 Season 1
 
-| Build | Download | Alternative Download | Alternative Download |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 11.50-CL-11265652 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch2/S1/11.50-CL-11265652.7z) | [2](https://archive.org/download/fn-v11-archive/builds/11.50-CL-11265652.7z) |  |
 | 11.50-CL-11204868 | Lost |  |  |
@@ -511,7 +511,7 @@ ___
 
 ## Chapter 1 Season 10
 
-| Build | Download | Alternative Download | Alternative Download |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 10.40-CL-9380822 | [1](https://drive.google.com/file/d/1rnUcUJVeqjNhVDIODz5TBC4lY6BJcIwd/view) | [2](https://archive.org/download/Fortnite-10.40-CL-9380822.rar/10.40-CL-9380822.rar) | [3](https://archive.org/download/fn-v10-archive/builds/10.40-CL-9380822.7z) |
 | 10.40-CL-9302865 | Lost |  |  |
@@ -527,7 +527,7 @@ ___
 
 ## Chapter 1 Season 9
 
-| Build | Download | Alternative Download | Alternative Download |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 9.41-CL-7609292 | [1](https://builds.rebootfn.org/9.41.rar) | [2](https://archive.org/download/fn-v9-archive/builds/9.41-CL-7609292.7z) |  |
 | 9.41-CL-7463579 | Lost |  |  |
@@ -544,7 +544,7 @@ ___
 
 ## Chapter 1 Season 8
 
-| Build | Download | Alternative Download | Alternative Download |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 8.51-CL-6165369 | [1](https://builds.rebootfn.org/8.51.rar) | [2](https://archive.org/download/fortnite-release-8.51-cl-6165369/%2B%2BFortnite%2BRelease-8.51-CL-6165369.zip) |  |
 | 8.50-CL-6058028 | [1](https://builds.rebootfn.org/8.50.zip) |  |  |
@@ -565,7 +565,7 @@ ___
 
 ## Chapter 1 Season 7
 
-| Build | Download | Alternative Download | Alternative Download |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 7.40-CL-5046157 | [1](https://builds.rebootfn.org/7.40.rar) |  |  |
 | 7.40-CL-5012948 | Lost |  |  |
@@ -582,7 +582,7 @@ ___
 
 ## Chapter 1 Season 6
 
-| Build | Download | Alternative Download | Alternative Download |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 6.30-CL-4579044 | [1](https://builds.rebootfn.org/6.30.rar) |  |  |
 | 6.31-CL-4573279 | [1](https://builds.rebootfn.org/6.31.rar) | [2](https://archive.org/download/Fortnite-6.31-CL-4573279.rar/6.31-CL-4573279.rar) |  |
@@ -604,7 +604,7 @@ ___
 
 ## Chapter 1 Season 5
 
-| Build | Download | Alternative Download | Alternative Download |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 5.41-CL-4363240 | [1](https://public-build-archives-bucket.erafn.dev/5.41.zip) | [2](https://archive.org/download/Fortnite-5.41-CL-4363240.zip/5.41-CL-4363240.zip) |  |
 | 5.40-CL-4352937 | [1](https://builds.rebootfn.org/5.40.rar) |  |  |
@@ -621,7 +621,7 @@ ___
 
 ## Chapter 1 Season 4
 
-| Build | Download | Alternative Download | Alternative Download |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 4.5-CL-4166199 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch1/S4/4.5-CL-4166199.7z) | [2](https://drive.google.com/file/d/1uZ2IO1aY41HmWgq-hb-eyWtXnomkj0nc/view) | [3](https://drive.usercontent.google.com/download?id=1uZ2IO1aY41HmWgq-hb-eyWtXnomkj0nc&export=download&authuser=0&confirm=t&uuid=8eb7003a-f47a-4504-b273-473dc03044c7&at=AGN2oQ33H6PLtlygxYLcI9XPFa1u%3A1772879758174) |
 | 4.5-CL-4159770 | [1](https://builds.rebootfn.org/4.5.rar) |  |  |
@@ -636,7 +636,7 @@ ___
 
 ## Chapter 1 Season 3
 
-| Build | Download | Alternative Download | Alternative Download |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 3.6-CL-4019403 | [1](https://archive.org/download/fortnite-v3.6/Fortnite%20v3.6.7z) | [2](https://fn-builds.repressoh.it/3.6.zip) |  |
 | 3.5-CL-4008490 | [1](https://builds.rebootfn.org/3.5.rar) | [2](https://fn-builds.repressoh.it/3.5.zip) |  |
@@ -654,7 +654,7 @@ ___
 
 ## Chapter 1 Season 2
 
-| Build | Download | Alternative Download | Alternative Download |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | 2.5-CL-3889387 | [1](https://builds.rebootfn.org/2.5.0.rar) |  |  |
 | 2.4.x-CL-3876086 | Lost |  |  |
@@ -668,7 +668,7 @@ ___
 
 ## Chapter 1 Season 1
 
-| Build | Download | Alternative Download | Alternative Download |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- |
 | Release-Cert-CL-3790078 | [1](https://builds.rebootfn.org/1.10.rar) | [2](https://fn-builds.repressoh.it/1.10.rar) |  |
 | Release-Cert-CL-3785438 | Lost |  |  |
@@ -680,7 +680,7 @@ ___
 
 ## Chapter 1 Season 0
 
-| Build | Download | Alternative Download | Alternative Download | Alternative Download | Alternative Download |
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 | --- | --- | --- | --- | --- | --- |
 | Release-Cert-CL-3700114 | [1](https://builds.rebootfn.org/1.7.2.zip) | [2](https://drive.google.com/file/d/1A3Y2werWd5mlbp2MlUeP8NL5sEXy8lOn/view) | [3](https://archive.org/download/fn-v0-archive/1.7.2-CL-3700114.zip) |  |  |
 | Release-Cert-CL-3681159 | Lost |  |  |  |  |

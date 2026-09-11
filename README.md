@@ -44,7 +44,7 @@ ___
 
 ## Chapter 7 Season 3 
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | 41.30-CL-55979764 | [1](https://github.com/polynite/fn-releases) | | | | |
 | 41.20-CL-55550516 | [1](https://github.com/polynite/fn-releases) | | | | |
 | 41.10-CL-55227503 | [1](https://github.com/polynite/fn-releases) | | | | |
@@ -55,7 +55,7 @@ ___
 
 ## Chapter 7 Season 2 
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | 40.41-CL-54326946 | [1](https://github.com/polynite/fn-releases) | | | | |
 | 40.40-CL-53683214 | [1](https://github.com/polynite/fn-releases) | | | | |
 | 40.30-CL-53093531 | [1](https://github.com/polynite/fn-releases) | | | | |
@@ -67,7 +67,7 @@ ___
 
 ## Chapter 7 Season 1
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | 39.51-CL-51287198 | [1](https://ia802807.us.archive.org/7/items/39.51-cl-51287198/39.51-CL-51287198.rar) | [2](https://transfer.it/t/MXp35FlDwZpZ) | [3](https://archive.org/download/fn-v39-archive/39.51-CL-51287198.zip) | | |
 | 39.50-CL-51043566 | [1](https://archive.org/download/fn-v39-archive/39.50-CL-51043566.zip) | | | | |
 | 39.50-CL-50854790 | [1](https://archive.org/download/fn-v39-archive/39.50-CL-50854790.zip) | [2](https://pastabillites.to/d/2qzcb3d27h5e?v=ZgVywtaCX3eYLzGYQZMxNhk3DBgaRG1nXY2CmV5l2wSs3qOYZ035tSK_gmJ1Xv9_Vl7TH9XkkPjZnn8qBuM8uh56BvsnlG13DuJ72JjW2Ha0F2AfisSe5ixivMcVwQ) | | | |
@@ -84,7 +84,7 @@ ___
 
 ## Chapter 6 Season MS2 (Chapter 6 The Simpsons)
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | 38.11-CL-48390828 | [1](https://archive.org/download/fn-v38-archive/38.11-CL-48390828.zip) | [2](https://fn-builds.repressoh.it/38.11-CL-48390828.zip) | | | |
 | 38.10-CL-47888945 | [1](https://archive.org/download/fn-v38-archive/38.10-CL-47888945.zip) | [2](https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.10-CL-47888945.zip) | [3](https://fn-builds.repressoh.it/38.10-CL-47888945.zip) | | |
 | 38.00-CL-47722112 | [1](https://archive.org/download/fn-v38-archive/38.00-CL-47722112.zip) | [2](https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.00-CL-47722112.zip) | [3](https://fn-builds.repressoh.it/38.00-CL-47722112.zip) | [4](https://paris-001.ai-repertoire.com:5001/internal/decrypt?token=eyJib2R5Ijoie1wia2V5XCI6XCI4cGZWZ09MUDhmYWl5R1ZzQXJ5WGtIakZIZWh0RzRjdFBsQTI5NjhkQjNzPVwiLFwiaXZcIjpcInl2MDlkMUdtV05ka3VjbjhcIixcInRhZ1wiOlwiWEt4RUV5NjZCZkdERTI1V2hZenBmZz09XCIsXCJwYXRoXCI6XCJmaWxlcy83ZS82OTIzOGM4YzFkMWQyMTJmNzdlNGI0N2VfX19Gb3J0bml0ZV9SZWxlYXNlLTM4LjExLUNMLTQ4MzkwODI4LnppcC5lbmNcIixcImZpbGVuYW1lXCI6XCIrK0ZvcnRuaXRlK1JlbGVhc2UtMzguMTEtQ0wtNDgzOTA4MjguemlwXCJ9Iiwic2lnIjoiMTMwYzdiMzA4NjhmNzVkMjE5NjE2NTM1ZTBmZDA3NTZmNzViNjMxYjQxNjNhMDQxNjkyYzk5ZTMwODZhODEyYiJ9) | |
@@ -92,7 +92,7 @@ ___
 
 ## Chapter 6 Season 4
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | 37.51-CL-46968237 | [1](https://archive.org/download/fn-v37-archive/37.51-CL-46968237.zip) | | | | |
 | 37.50-CL-46578011 | [1](https://archive.org/download/fn-v37-archive/37.50-CL-46578011.zip) | | | | |
 | 37.40-CL-46295673 | [1](https://archive.org/download/fn-v37-archive/37.40-CL-46295673.zip) | | | | |
@@ -108,7 +108,7 @@ ___
 
 ## Chapter 6 Season 3
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | 36.30-CL-44367537 | [1](https://archive.org/download/fn-v36-archive/36.30-CL-44367537.zip) | | | | |
 | 36.20-CL-44118662 | [1](https://archive.org/download/fn-v36-archive/36.20-CL-44118662.zip) | | | | |
 | 36.20-CL-43847582 | [1](https://archive.org/download/fn-v36-archive/36.20-CL-43847582.zip) | | | | |
@@ -120,7 +120,7 @@ ___
 
 ## Chapter 6 Season MS1 (Chapter 6 Galactic Battle)
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | 35.20-CL-42911808 | [1](https://archive.org/download/fn-v35-archive/35.20-CL-42911808.zip) | | | | |
 | 35.10-CL-42906078 | [1](https://archive.org/download/fn-v35-archive/35.10-CL-42906078.zip) | | | | |
 | 35.10-CL-42696140 | [1](https://archive.org/download/fn-v35-archive/35.10-CL-42696140.zip) | | | | |
@@ -130,7 +130,7 @@ ___
 
 ## Chapter 6 Season 2
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | 34.40-CL-41753727 | [1](https://archive.org/download/34.10-cl-40567068/34.40-CL-41753727.rar) | [2](https://fn-builds.repressoh.it/34.40-CL-41753727.rar) | | | |
 | 34.30-CL-41588354 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch6/S2/34.30-CL-41588354.7z) | | | | |
 | 34.30-CL-41387772 | [1](https://archive.org/download/34.10-cl-40567068/34.30-CL-41387772.zip) | [2](https://archive.org/download/fn-v34-archive/34.30-CL-41387772.zip) | | | |

@@ -343,7 +343,7 @@ ___
 | 19.40-CL-19167615 | Unavailable |  |  |
 | 19.30-CL-19027703 | [1](https://archive.org/download/fn-v19-archives/19.30-CL-19027703.7z) | [2](https://cdn.cbn.lol/19.30) |  |
 | 19.30-CL-18948597 | Unavailable |  |  |
-| 19.20-CL-18775446 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/S1/19.20-CL-18775446.7z) | [2](https://archive.org/download/fn-v19-archives/19.20-CL-18775446.7z) |  |
+| 19.20-CL-18775446 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/S1/19.20-CL-18775446.7z) | [2](https://archive.org/download/fn-v19-archives/19.20-CL-18775446.7z) | [3](https://archive.org/download/19.20-cl-18775446/19.20-CL-18775446.zip) |
 | 19.10-CL-18675304 | [1](https://archive.org/download/fn-v19-archives/19.10-CL-18675304.7z) |  |  |
 | 19.10-CL-18640491 | Lost |  |  |
 | 19.10-CL-18581131 | Lost |  |  |
@@ -453,7 +453,7 @@ ___
 
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
-| 13.40-CL-14113327 | [1](https://gofile.io/d/JYmlgo) | [2](https://archive.org/download/fn-v13-archive/builds/13.40-CL-14113327.7z) |  |
+| 13.40-CL-14113327 | [1](https://gofile.io/d/JYmlgo) | [2](https://archive.org/download/fn-v13-archive/builds/13.40-CL-14113327.7z) | [3](https://archive.org/download/13.40_202605/13.40.rar) |
 | 13.40-CL-14036559 | Unavailable |  |  |
 | 13.40-CL-14008768 | Lost |  |  |
 | 13.30-CL-13884634 | [1](https://archive.org/download/fn-v13-archive/builds/13.30-CL-13884634.7z) |  |  |
@@ -472,7 +472,7 @@ ___
 | 12.50-CL-13193885 | Lost |  |  |
 | 12.50-CL-13137020 | [1](https://drive.google.com/file/d/15ijQ8gb_ylzhx8ihLvQm6IPB4uYP5tlB/view) | [2](https://archive.org/download/fn-v12-archive/builds/12.50-CL-13137020.7z) |  |
 | 12.50-CL-13044369 | Lost |  |  |
-| 12.41-CL-12905909 | [1](https://cdn.cbn.lol/12.41) | [2](https://fentti.xyz/upload/12.41.zip) | [3](https://archive.org/download/fn-v12-archive/builds/12.41-CL-12905909.7z) |
+| 12.41-CL-12905909 | [1](https://cdn.cbn.lol/12.41) | [2](https://archive.org/download/fortnite-12.41_202603/Fortnite%2012.41.zip) | [3](https://archive.org/download/fn-v12-archive/builds/12.41-CL-12905909.7z) |
 | 12.40-CL-12837456 | [1](https://archive.org/download/fn-v12-archive/builds/12.40-CL-12837456.7z) |  |  |
 | 12.30-CL-12624643 | [1](https://transfer.it/t/ODMlq0hH0BxD) | [2](https://archive.org/download/12.30-cl-12624643.7z/12.30-CL-12624643.7z) | [3](https://download.fn-archive.com/FortniteClient-12.30-CL-12624643.7z) |
 | 12.30-CL-12493283 | Unavailable |  |  |
@@ -572,7 +572,7 @@ ___
 | 7.40-CL-4996168 | Lost |  |  |
 | 7.40-CL-4980899 | Lost |  |  |
 | 7.30-CL-4869070 | Lost |  |  |
-| 7.30-CL-4834550 | [1](https://builds.rebootfn.org/7.30.zip) |  |  |
+| 7.30-CL-4834550 | [1](https://builds.rebootfn.org/7.30.zip) | [2](https://archive.org/download/season-7/Season%207.rar) |  |
 | 7.30-CL-4821335 | Lost |  |  |
 | 7.20-CL-4727874 | [1](https://builds.rebootfn.org/7.20.rar) |  |  |
 | 7.20-CL-4716934 | Lost |  |  |
@@ -640,7 +640,7 @@ ___
 |---|---|---|---|---|---|---|
 | 3.6-CL-4019403 | [1](https://archive.org/download/fortnite-v3.6/Fortnite%20v3.6.7z) | [2](https://fn-builds.repressoh.it/3.6.zip) |  |
 | 3.5-CL-4008490 | [1](https://builds.rebootfn.org/3.5.rar) | [2](https://fn-builds.repressoh.it/3.5.zip) |  |
-| 3.5-CL-4000805 | [1](https://archive.org/details/fortnite-4000805-3.5) | [2](https://fn-builds.repressoh.it/3.5-CL-4000805.7z) |  |
+| 3.5-CL-4000805 | [1](https://archive.org/download/fortnite-4000805-3.5/Fortnite.7z) | [2](https://fn-builds.repressoh.it/3.5-CL-4000805.7z) |  |
 | 3.5-CL-3994867 | Lost |  |  |
 | 3.4-CL-3973340 | Lost |  |  |
 | 3.4-CL-3968866 | Lost |  |  |
@@ -682,7 +682,7 @@ ___
 
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
-| Release-Cert-CL-3700114 | [1](https://builds.rebootfn.org/1.7.2.zip) | [2](https://drive.google.com/file/d/1A3Y2werWd5mlbp2MlUeP8NL5sEXy8lOn/view) | [3](https://archive.org/download/fn-v0-archive/1.7.2-CL-3700114.zip) |  |  |
+| Release-Cert-CL-3700114 | [1](https://builds.rebootfn.org/1.7.2.zip) | [2](https://drive.google.com/file/d/1A3Y2werWd5mlbp2MlUeP8NL5sEXy8lOn/view) | [3](https://archive.org/download/fn-v0-archive/1.7.2-CL-3700114.zip) | [4](https://archive.org/download/1.7.2_202412/1.7.2.zip) |  |
 | Release-Cert-CL-3681159 | Lost |  |  |  |  |
 | Release-Cert-CL-3668626 | Lost |  |  |  |  |
 | Cert-CL-3541083 | [1](https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-21_microsoft_windows_1.2-cl-3541083/fortnite_v1.2.rar) | [2](https://fn-builds.repressoh.it/1.2.zip) | [3](https://archive.org/download/fn-v0-archive/1.2.0-CL-3541083.zip) |  |  |

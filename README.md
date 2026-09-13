@@ -30,6 +30,7 @@ ___
 - Cedits go to Primus03 for 19.20 and 26.00 
 - Credits go Fortforge (Pakked and Jalen) for some of the builds that i mirrored from them without giving any credits
 - Credits go to me for uploading some builds onto here as well 
+- Credits to Shoqaratio for a couple of his builds that are on here
 
 If you have any builds that you can provide make an issue or dm me on discord (only builds that aren't on here)
 

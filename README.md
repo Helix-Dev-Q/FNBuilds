@@ -73,7 +73,7 @@ ___
 | 39.50-CL-50854790 | [1](https://archive.org/download/fn-v39-archive/39.50-CL-50854790.zip) | [2](https://pastabillites.to/d/2qzcb3d27h5e?v=ZgVywtaCX3eYLzGYQZMxNhk3DBgaRG1nXY2CmV5l2wSs3qOYZ035tSK_gmJ1Xv9_Vl7TH9XkkPjZnn8qBuM8uh56BvsnlG13DuJ72JjW2Ha0F2AfisSe5ixivMcVwQ) | | | |
 | 39.40-CL-50577083 | [1](https://pastabillites.to/d/b07n6bokfyw4?v=wSJqG4-dVNkSUJb4Iw0PrU32VzeUo7yUxiEGp67nyWNc_9dVrNFn8hnNceUr8EglN9kxtgFkAXHynPNzPc2BMBfsju51cEz-7TT9zdpH1i7MG9I3ivq1GI7U3hkb6Q) | | | | |
 | 39.40-CL-50341043 | [1](https://archive.org/download/fn-v39-archive/39.40-CL-50341043.zip) | [2](https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.40-CL-50341043.zip) | | | |
-| 39.30-CL-50141518 | [1](https://archive.org/download/fn-v39-archive/39.30-CL-50141518.zip) | [2](https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.30-CL-50141518.zip) | | | |
+| 39.30-CL-50141518 | [1](https://fn-builds.com/build/fortnite-39-30-cl-50141518-zip) | [2](https://archive.org/download/fn-v39-archive/39.30-CL-50141518.zip) | [3](https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.30-CL-50141518.zip) | | | |
 | 39.30-CL-49874243 | [1](https://archive.org/download/fn-v39-archive/39.30-CL-49874243.zip) | [2](https://store-na-phx-1.gofile.io/download/web/6e88416a-d452-4a58-8e8d-4f4d2f17cf74/39.30-CL-49874243.zip) | | | |
 | 39.20-CL-49564179 | [1](https://archive.org/download/fn-v39-archive/39.20-CL-49564179.zip) | [2](https://store-na-phx-1.gofile.io/download/web/29911236-fa7a-457d-9a86-0c025d8525c8/39.20-CL-49564179.zip) | | | |
 | 39.11-CL-49242330 | [1](https://archive.org/download/fn-v39-archive/39.11-CL-49242330.zip) | [2](https://archive.org/download/39.11-cl-49242330/39.11-CL-49242330.zip) | | | |
@@ -85,7 +85,7 @@ ___
 ## Chapter 6 Season MS2 (Chapter 6 The Simpsons)
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
-| 38.11-CL-48390828 | [1](https://archive.org/download/fn-v38-archive/38.11-CL-48390828.zip) | [2](https://fn-builds.repressoh.it/38.11-CL-48390828.zip) | | | |
+| 38.11-CL-48390828 | [1](https://fn-builds.com/build/fortnite-38-11-cl-48390828-zip) | [2](https://archive.org/download/fn-v38-archive/38.11-CL-48390828.zip) | [3](https://fn-builds.repressoh.it/38.11-CL-48390828.zip) | | | |
 | 38.10-CL-47888945 | [1](https://archive.org/download/fn-v38-archive/38.10-CL-47888945.zip) | [2](https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.10-CL-47888945.zip) | [3](https://fn-builds.repressoh.it/38.10-CL-47888945.zip) | | |
 | 38.00-CL-47722112 | [1](https://archive.org/download/fn-v38-archive/38.00-CL-47722112.zip) | [2](https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.00-CL-47722112.zip) | [3](https://fn-builds.repressoh.it/38.00-CL-47722112.zip) | [4](https://paris-001.ai-repertoire.com:5001/internal/decrypt?token=eyJib2R5Ijoie1wia2V5XCI6XCI4cGZWZ09MUDhmYWl5R1ZzQXJ5WGtIakZIZWh0RzRjdFBsQTI5NjhkQjNzPVwiLFwiaXZcIjpcInl2MDlkMUdtV05ka3VjbjhcIixcInRhZ1wiOlwiWEt4RUV5NjZCZkdERTI1V2hZenBmZz09XCIsXCJwYXRoXCI6XCJmaWxlcy83ZS82OTIzOGM4YzFkMWQyMTJmNzdlNGI0N2VfX19Gb3J0bml0ZV9SZWxlYXNlLTM4LjExLUNMLTQ4MzkwODI4LnppcC5lbmNcIixcImZpbGVuYW1lXCI6XCIrK0ZvcnRuaXRlK1JlbGVhc2UtMzguMTEtQ0wtNDgzOTA4MjguemlwXCJ9Iiwic2lnIjoiMTMwYzdiMzA4NjhmNzVkMjE5NjE2NTM1ZTBmZDA3NTZmNzViNjMxYjQxNjNhMDQxNjkyYzk5ZTMwODZhODEyYiJ9) | |
 | 38.00-CL-47291259 | [1](https://archive.org/download/fn-v38-archive/38.00-CL-47291259.zip) | [2](https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.00-CL-47291259.zip) | [3](https://fn-builds.repressoh.it/38.00-CL-47291259.zip) | | |
@@ -121,7 +121,7 @@ ___
 ## Chapter 6 Season MS1 (Chapter 6 Galactic Battle)
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
-| 35.20-CL-42911808 | [1](https://archive.org/download/fn-v35-archive/35.20-CL-42911808.zip) | | | | |
+| 35.20-CL-42911808 | [1](https://fn-builds.com/build/fortnite-35-20-cl-42911808-zip) | [2](https://archive.org/download/fn-v35-archive/35.20-CL-42911808.zip) | | | | |
 | 35.10-CL-42906078 | [1](https://archive.org/download/fn-v35-archive/35.10-CL-42906078.zip) | | | | |
 | 35.10-CL-42696140 | [1](https://archive.org/download/fn-v35-archive/35.10-CL-42696140.zip) | | | | |
 | 35.10-CL-42476511 | [1](https://archive.org/download/fn-v35-archive/35.10-CL-42476511.zip) | | | | |
@@ -233,7 +233,7 @@ ___
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
 | 26.30-CL-28688692 | [1](https://fn-builds.repressoh.it/26.30-CL-28688692.zip) |  |  |
-| 26.30-CL-28509302 | [1](https://fn-builds.repressoh.it/26.30-CL-28509302.zip) |  |  |
+| 26.30-CL-28509302 | [1](https://fn-builds.repressoh.it/26.30-CL-28509302.zip) | [2](https://fn-builds.com/build/fortnite-26-30-cl-28509302-zip) |  |
 | 26.20-CL-28096793 | Downloadable by manifest |  |  |
 | 26.10-CL-27681420 | Downloadable by manifest |  |  |
 | 26.00-CL-27424790 | Downloadable by manifest |  |  |
@@ -244,7 +244,7 @@ ___
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
 | 25.30-CL-26867995 | [1](https://archive.org/download/fn-v25-archive/builds/25.30-CL-26867995.7z) |  |  |
-| 25.20-CL-26629111 | [1](https://archive.org/download/fn-v25-archive/builds/25.20-CL-26629111.7z) | [2](https://fn-builds.repressoh.it/25.20.zip) |  |
+| 25.20-CL-26629111 | [1](https://archive.org/download/fn-v25-archive/builds/25.20-CL-26629111.7z) | [2](https://fn-builds.repressoh.it/25.20.zip) <!-- be careful, very slow in EU zone --> | [3](https://fn-builds.com/build/fortnite-25-20-cl-26629111-zip)  |
 | 25.20-CL-26474516 | [1](https://archive.org/download/fn-v25-archive/builds/25.20-CL-26474516.7z) |  |  |
 | 25.11-CL-26171015 | [1](https://archive.org/download/fn-v25-archive/builds/25.11-CL-26171015.7z) | [2](https://fn-builds.repressoh.it/25.11.zip) |  |
 | 25.10-CL-26000959 | [1](https://archive.org/download/fn-v25-archive/builds/25.10-CL-26000959.7z) |  |  |
@@ -289,7 +289,7 @@ ___
 
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
-| 22.40-CL-23070899 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/22.20-CL-22600409.7z) | [2](https://gofile.io/d/uwbcWq) |  |
+| 22.40-CL-23070899 | [1](https://fn-builds.com/build/fortnite-22-40-cl-23070899-zip) | [2](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/22.20-CL-22600409.7z) | [3](https://gofile.io/d/uwbcWq) |  |
 | 22.30-CL-22803135 | [1](https://dl.fortforge.co.uk/download/d291143e-8aa6-4a97-8d30-5251b4f1bfe2/build?queue_id=cc93430d-129e-4490-9cba-6f9a30d46ebb&download=1&landing=1) |  |  |
 | 22.20-CL-22600409 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/22.20-CL-22600409.7z) |  |  |
 | 22.20-CL-22523251 | Lost |  |  |
@@ -316,7 +316,7 @@ ___
 | 21.10-CL-20829351 | Unavailable |  |  |  |
 | 21.10-CL-20777648 | Lost |  |  |  |
 | 21.10-CL-20756627 | Lost |  |  |  |
-| 21.10-CL-20696680 | [1](https://archive.org/download/fn-v21-archive/builds/21.10-CL-20696680.7z) |  |  |  |
+| 21.10-CL-20696680 | [1](https://fn-builds.com/build/fortnite-21-10-cl-20696680-zip) | [2](https://archive.org/download/fn-v21-archive/builds/21.10-CL-20696680.7z) |  |  |
 | 21.00-CL-20548557 | Unavailable |  |  |  |
 | 21.00-CL-20463113 | [1](https://archive.org/download/fn-v21-archive/builds/21.00-CL-20463113.7z) |  |  |  |
 
@@ -421,7 +421,7 @@ ___
 | 15.21-CL-15083856 | [1](https://download.fn-archive.com/FortniteClient-15.21-CL-15083856.7z) | [2](https://archive.org/download/fn-v15-archive/builds/15.21-CL-15083856.7z) |  |
 | 15.20-CL-15070882 | [1](https://archive.org/download/fn-v15-archive/builds/15.20-CL-15070882.7z) |  |  |
 | 15.20-CL-15033494 | Lost |  |  |
-| 15.10-CL-15014719 | [1](https://archive.org/download/fn-v15-archive/builds/15.10-CL-15014719.7z) |  |  |
+| 15.10-CL-15014719 | [1](https://fn-builds.com/build/fortnite-15-10-cl-15014719-zip) | [2](https://archive.org/download/fn-v15-archive/builds/15.10-CL-15014719.7z) |  |
 | 15.10-CL-14937640 | Lost |  |  |
 | 15.10-CL-14904303 | Lost |  |  |
 | 15.00-CL-14835335 | [1](https://download.fn-archive.com/FortniteClient-15.00-CL-14835335.7z) | [2](https://archive.org/download/fn-v15-archive/builds/15.00-CL-14835335.7z) |  |
@@ -513,7 +513,7 @@ ___
 
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
-| 10.40-CL-9380822 | [1](https://drive.google.com/file/d/1rnUcUJVeqjNhVDIODz5TBC4lY6BJcIwd/view) | [2](https://archive.org/download/Fortnite-10.40-CL-9380822.rar/10.40-CL-9380822.rar) | [3](https://archive.org/download/fn-v10-archive/builds/10.40-CL-9380822.7z) |
+| 10.40-CL-9380822 | [1](https://fn-builds.com/build/fortnite-10-40-cl-9380822-rar) | [2](https://drive.google.com/file/d/1rnUcUJVeqjNhVDIODz5TBC4lY6BJcIwd/view) | [3](https://archive.org/download/Fortnite-10.40-CL-9380822.rar/10.40-CL-9380822.rar) | [4](https://archive.org/download/fn-v10-archive/builds/10.40-CL-9380822.7z) |
 | 10.40-CL-9302865 | Lost |  |  |
 | 10.40-CL-8970213 | Lost |  |  |
 | 10.31-CL-8723043 | [1](https://builds.rebootfn.org/10.31.zip) | [2](https://archive.org/download/fn-v10-archive/builds/10.31-CL-8723043.7z) |  |
@@ -535,7 +535,7 @@ ___
 | 9.30-CL-7095426 | [1](https://builds.rebootfn.org/9.30.zip) | [2](https://archive.org/download/fn-v9-archive/builds/9.30-CL-7095426.7z) |  |
 | 9.30-CL-7021684 | Lost |  |  |
 | 9.21-CL-6922310 | [1](https://builds.rebootfn.org/9.21.zip) | [2](https://archive.org/download/fn-v9-archive/builds/9.21-CL-6922310.7z) |  |
-| 9.20-CL-6822798 | [1](https://archive.org/download/fn-v9-archive/builds/9.20-CL-6822798.7z) |  |  |
+| 9.20-CL-6822798 | [1](https://fn-builds.com/build/fortnite-9-20-cl-6822798-rar) | [2](https://archive.org/download/fn-v9-archive/builds/9.20-CL-6822798.7z) |  | <!-- the only link was archive.org, very slow -->
 | 9.10-CL-6639283 | [1](https://builds.rebootfn.org/9.10.rar) | [2](https://cdn.solarisfn.dev/Builds/9.10.zip) | [3](https://archive.org/download/fn-v9-archive/builds/9.10-CL-6639283.7z) |
 | 9.10-CL-6616201 | Lost |  |  |
 | 9.10-CL-6573057 | [1](https://dl.fortforge.co.uk/download/59cdc0e6-a497-46ad-825e-17f5c8f35115/build?queue_id=040adcbd-7a55-4d5a-b16d-fe1de6e3613a&download=1&landing=1) |  |  |
@@ -546,9 +546,9 @@ ___
 
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
-| 8.51-CL-6165369 | [1](https://builds.rebootfn.org/8.51.rar) | [2](https://archive.org/download/fortnite-release-8.51-cl-6165369/%2B%2BFortnite%2BRelease-8.51-CL-6165369.zip) |  |
+| 8.51-CL-6165369 | [1](https://fn-builds.com/build/fortnite-8-51-cl-6165369-zip) | [2](https://archive.org/download/fortnite-release-8.51-cl-6165369/%2B%2BFortnite%2BRelease-8.51-CL-6165369.zip) |  | <!-- rebootfn cdn is down so lets replace it -->
 | 8.50-CL-6058028 | [1](https://builds.rebootfn.org/8.50.zip) |  |  |
-| 8.40-CL-6005771 | [1](https://builds.rebootfn.org/8.40.zip) | [2](https://archive.org/download/Fortnite-8.40-CL-6005771.zip/8.40-CL-6005771.zip) |  |
+| 8.40-CL-6005771 | [1](https://fn-builds.com/build/fortnite-8-40-cl-6005771-zip) | [2](https://archive.org/download/Fortnite-8.40-CL-6005771.zip/8.40-CL-6005771.zip) |  |
 | 8.40-CL-5914491 | Lost |  |  |
 | 8.30-CL-5831510 | Lost |  |  |
 | 8.30-CL-5822617 | Lost |  |  |
@@ -576,7 +576,7 @@ ___
 | 7.30-CL-4821335 | Lost |  |  |
 | 7.20-CL-4727874 | [1](https://builds.rebootfn.org/7.20.rar) |  |  |
 | 7.20-CL-4716934 | Lost |  |  |
-| 7.10-CL-4667333 | [1](https://builds.rebootfn.org/7.10.rar) | [2](https://drive.google.com/file/d/1ddhWJsKAgSyaQamPOw03LugLC5wcnzbB/view) |  |
+| 7.10-CL-4667333 | [1](https://fn-builds.com/build/fortnite-7-10-cl-4667333-rar) | [2](https://drive.google.com/file/d/1ddhWJsKAgSyaQamPOw03LugLC5wcnzbB/view) |  |
 | 7.01-CL-4648651 | Lost |  |  |
 | 7.00-CL-4629139 | [1](https://builds.rebootfn.org/7.00.rar) |  |  |
 
@@ -589,7 +589,7 @@ ___
 | 6.22-CL-4543176 | [1](https://builds.rebootfn.org/6.22.rar) |  |  |
 | 6.22-CL-4541220 | Lost |  |  |
 | 6.21-CL-4531851 | Lost |  |  |
-| 6.21-CL-4526925 | [1](https://builds.rebootfn.org/6.21.rar) | [2](https://public-build-archives-bucket.erafn.dev/6.21.zip) |  |
+| 6.21-CL-4526925 | [1](https://fn-builds.com/build/fortnite-6-21-cl-4526925-zip) | [2](https://public-build-archives-bucket.erafn.dev/6.21.zip) |  | <!-- rebootfn cdn is down so lets replace it -->
 | 6.20-CL-4504220 | Lost |  |  |
 | 6.20-CL-4497486 | [1](https://download.fn-archive.com/FortniteClient-6.20-CL-4497486.rar) |  |  |
 | 6.10-CL-4480234 | [1](https://builds.rebootfn.org/6.10.2.rar) | [2](https://drive.google.com/file/d/1z0S3S8Khz8hY8qL7UbL9FYti5u6qVxsr/view) |  |
@@ -597,7 +597,7 @@ ___
 | 6.10-CL-4464155 | [1](https://builds.rebootfn.org/6.10.rar) |  |  |
 | 6.02-CL-4461277 | [1](https://builds.rebootfn.org/6.2.1.rar) | [2](https://drive.google.com/file/d/1SlWF87kNH1PKwu-cRWyuktrS2vVt-pHz/view) |  |
 | 6.02-CL-4442095 | [1](https://builds.rebootfn.org/6.02.rar) |  |  |
-| 6.01-CL-4424678 | [1](https://build.rebootfn.org/6.1.1.rar) | [2](https://drive.google.com/file/d/1u-bij6Gq9_wEVM1G04TP7JI2txNrakQb/view) |  |
+| 6.01-CL-4424678 | [1](https://fn-builds.com/build/fortnite-6-01-cl-4424678-rar) | [2](https://drive.google.com/file/d/1u-bij6Gq9_wEVM1G04TP7JI2txNrakQb/view) |  | <!-- rebootfn cdn is down so lets replace it -->
 | 6.01-CL-4417689 | [1](https://builds.rebootfn.org/6.01.rar) | [2](https://archive.org/download/Fortnite-6.01-CL-4417689.rar/6.01-CL-4417689.rar) |  |
 | 6.00-CL-4402180 | Unavailable |  |  |
 | 6.00-CL-4395664 | [1](https://builds.rebootfn.org/6.00.rar) |  |  |
@@ -606,7 +606,7 @@ ___
 
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
-| 5.41-CL-4363240 | [1](https://public-build-archives-bucket.erafn.dev/5.41.zip) | [2](https://archive.org/download/Fortnite-5.41-CL-4363240.zip/5.41-CL-4363240.zip) |  |
+| 5.41-CL-4363240 | [1](https://public-build-archives-bucket.erafn.dev/5.41.zip) | [2](https://fn-builds.com/build/fortnite-5-41-cl-4363240-zip) | [3](https://archive.org/download/Fortnite-5.41-CL-4363240.zip/5.41-CL-4363240.zip) |
 | 5.40-CL-4352937 | [1](https://builds.rebootfn.org/5.40.rar) |  |  |
 | 5.40-CL-4351695 | Lost |  |  |
 | 5.30-CL-4305896 | [1](https://builds.rebootfn.org/5.30.rar) |  |  |
@@ -631,7 +631,7 @@ ___
 | 4.3-CL-4103483 | Lost |  |  |
 | 4.3-CL-4095806 | Lost |  |  |
 | 4.2-CL-4072250 | [1](https://builds.rebootfn.org/4.2.zip) |  |  |
-| 4.1-CL-4053532 | [1](https://drive.google.com/file/d/1IEdNjXpDPE7cQKaZK1JJS_SrYWSDn23d/view) | [2](https://archive.org/download/Fortnite-4.10-CL-4053532.zip/4.10-CL-4053532.zip) |  |
+| 4.1-CL-4053532 | [1](https://drive.google.com/file/d/1IEdNjXpDPE7cQKaZK1JJS_SrYWSDn23d/view) | [2](https://fn-builds.com/build/fortnite-4-10-cl-4053532-zip) | [3](https://archive.org/download/Fortnite-4.10-CL-4053532.zip/4.10-CL-4053532.zip) |
 | 4.0-CL-4039451 | [1](https://builds.rebootfn.org/4.0.zip) |  |  |
 
 ## Chapter 1 Season 3
@@ -648,7 +648,7 @@ ___
 | 3.3-CL-3942182 | [1](https://builds.rebootfn.org/3.3.rar) |  |  |
 | 3.2-CL-3935073 | [1](https://builds.rebootfn.org/3.2.zip) |  |  |
 | 3.2-CL-3929794 | Lost |  |  |
-| 3.1-CL-3917250 | [1](https://builds.rebootfn.org/3.1.1.zip) | [2](https://drive.google.com/file/d/16c1NDzWZc_zb9nQV4ICj1LM9XvBtAGDJ/view) |  |
+| 3.1-CL-3917250 | [1](https://builds.rebootfn.org/3.1.1.zip) | [2](https://drive.google.com/file/d/16c1NDzWZc_zb9nQV4ICj1LM9XvBtAGDJ/view) | [3](https://fn-builds.com/build/fortnite-3-10-1-cl-3917250-zip)  |
 | 3.1-CL-3915963 | [1](https://builds.rebootfn.org/3.1.rar) |  |  |
 | 3.0.0-CL-3901517 | [1](https://builds.rebootfn.org/3.0.zip) |  |  |
 

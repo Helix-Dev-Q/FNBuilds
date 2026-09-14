@@ -43,33 +43,41 @@ ___
 - Hyperion/Byfron: An anti-tamper shield that encrypts game files to block reverse engineering. (v21.20 - v22.20) and a bypass will be needed in order to use it, which Project Carbon has or you can just create your own.
 - EAC Protection: Active on builds v30.10 and above. Requires a patched .exe or an alternative bypass method in order to launch it or you can use Project Carbon.
 
+## Chapter 7 Season 3
+| Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
+|---|---|---|---|---|---|---|
+| 42.10-CL-57819926 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
+| 42.10-CL-57819926 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
+| 42.00-CL-56878558 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | | 
+| 42.00-CL-57316517 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
+
 ## Chapter 7 Season 3 
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
-| 41.30-CL-55979764 | [1](https://github.com/polynite/fn-releases) | | | | |
-| 41.20-CL-55550516 | [1](https://github.com/polynite/fn-releases) | | | | |
-| 41.10-CL-55227503 | [1](https://github.com/polynite/fn-releases) | | | | |
-| 41.00-CL-55159917 | [1](https://github.com/polynite/fn-releases) | | | | |
-| 41.00-CL-54872343 | [1](https://github.com/polynite/fn-releases) | | | | |
-| 41.00-CL-54867060 | [1](https://github.com/polynite/fn-releases) | | | | |
-| 41.00-CL-54618515 | [1](https://github.com/polynite/fn-releases) | | | | |
+| 41.30-CL-55979764 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
+| 41.20-CL-55550516 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
+| 41.10-CL-55227503 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
+| 41.00-CL-55159917 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
+| 41.00-CL-54872343 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
+| 41.00-CL-54867060 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
+| 41.00-CL-54618515 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
 
 ## Chapter 7 Season 2 
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
-| 40.41-CL-54326946 | [1](https://github.com/polynite/fn-releases) | | | | |
-| 40.40-CL-53683214 | [1](https://github.com/polynite/fn-releases) | | | | |
-| 40.30-CL-53093531 | [1](https://github.com/polynite/fn-releases) | | | | |
-| 40.20-CL-52900211 | [1](https://github.com/polynite/fn-releases) | | | | |
-| 40.20-CL-52463280 | [1](https://github.com/polynite/fn-releases) | | | | |
-| 40.10-CL-52157884 | [1](https://github.com/polynite/fn-releases) | | | | |
+| 40.41-CL-54326946 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
+| 40.40-CL-53683214 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
+| 40.30-CL-53093531 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
+| 40.20-CL-52900211 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
+| 40.20-CL-52463280 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
+| 40.10-CL-52157884 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
 | 40.00-CL-51995682 | [1](https://archive.org/download/40.00-CL-51746096/40.00-CL-51995682.zip) | | | | |
 | 40.00-CL-51746096 | [1](https://archive.org/download/40.00-CL-51746096/40.00-CL-51746096.zip) | [2](https://fn-builds.repressoh.it/40.00-CL-51746096.zip) | | | |
 
 ## Chapter 7 Season 1
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
-| 39.51-CL-51287198 | [1](https://ia802807.us.archive.org/7/items/39.51-cl-51287198/39.51-CL-51287198.rar) | [2](https://transfer.it/t/MXp35FlDwZpZ) | [3](https://archive.org/download/fn-v39-archive/39.51-CL-51287198.zip) | | |
+| 39.51-CL-51287198 | [1](https://ia802807.us.archive.org/7/items/39.51-cl-51287198/39.51-CL-51287198.rar) | [2](https://archive.org/download/fn-v39-archive/39.51-CL-51287198.zip) | | |
 | 39.50-CL-51043566 | [1](https://archive.org/download/fn-v39-archive/39.50-CL-51043566.zip) | | | | |
 | 39.50-CL-50854790 | [1](https://archive.org/download/fn-v39-archive/39.50-CL-50854790.zip) | [2](https://pastabillites.to/d/2qzcb3d27h5e?v=ZgVywtaCX3eYLzGYQZMxNhk3DBgaRG1nXY2CmV5l2wSs3qOYZ035tSK_gmJ1Xv9_Vl7TH9XkkPjZnn8qBuM8uh56BvsnlG13DuJ72JjW2Ha0F2AfisSe5ixivMcVwQ) | | | |
 | 39.40-CL-50577083 | [1](https://pastabillites.to/d/b07n6bokfyw4?v=wSJqG4-dVNkSUJb4Iw0PrU32VzeUo7yUxiEGp67nyWNc_9dVrNFn8hnNceUr8EglN9kxtgFkAXHynPNzPc2BMBfsju51cEz-7TT9zdpH1i7MG9I3ivq1GI7U3hkb6Q) | | | | |
@@ -86,10 +94,10 @@ ___
 ## Chapter 6 Season MS2 (Chapter 6 The Simpsons)
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
-| 38.11-CL-48390828 | [1](https://fn-builds.com/build/fortnite-38-11-cl-48390828-zip) | [2](https://archive.org/download/fn-v38-archive/38.11-CL-48390828.zip) | [3](https://fn-builds.repressoh.it/38.11-CL-48390828.zip) | | | |
-| 38.10-CL-47888945 | [1](https://archive.org/download/fn-v38-archive/38.10-CL-47888945.zip) | [2](https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.10-CL-47888945.zip) | [3](https://fn-builds.repressoh.it/38.10-CL-47888945.zip) | | |
-| 38.00-CL-47722112 | [1](https://archive.org/download/fn-v38-archive/38.00-CL-47722112.zip) | [2](https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.00-CL-47722112.zip) | [3](https://fn-builds.repressoh.it/38.00-CL-47722112.zip) | [4](https://paris-001.ai-repertoire.com:5001/internal/decrypt?token=eyJib2R5Ijoie1wia2V5XCI6XCI4cGZWZ09MUDhmYWl5R1ZzQXJ5WGtIakZIZWh0RzRjdFBsQTI5NjhkQjNzPVwiLFwiaXZcIjpcInl2MDlkMUdtV05ka3VjbjhcIixcInRhZ1wiOlwiWEt4RUV5NjZCZkdERTI1V2hZenBmZz09XCIsXCJwYXRoXCI6XCJmaWxlcy83ZS82OTIzOGM4YzFkMWQyMTJmNzdlNGI0N2VfX19Gb3J0bml0ZV9SZWxlYXNlLTM4LjExLUNMLTQ4MzkwODI4LnppcC5lbmNcIixcImZpbGVuYW1lXCI6XCIrK0ZvcnRuaXRlK1JlbGVhc2UtMzguMTEtQ0wtNDgzOTA4MjguemlwXCJ9Iiwic2lnIjoiMTMwYzdiMzA4NjhmNzVkMjE5NjE2NTM1ZTBmZDA3NTZmNzViNjMxYjQxNjNhMDQxNjkyYzk5ZTMwODZhODEyYiJ9) | |
-| 38.00-CL-47291259 | [1](https://archive.org/download/fn-v38-archive/38.00-CL-47291259.zip) | [2](https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.00-CL-47291259.zip) | [3](https://fn-builds.repressoh.it/38.00-CL-47291259.zip) | | |
+| 38.11-CL-48390828 | [1](https://fn-builds.com/build/fortnite-38-11-cl-48390828-zip) | [2](https://archive.org/download/fn-v38-archive/38.11-CL-48390828.zip) |  | | |
+| 38.10-CL-47888945 | [1](https://archive.org/download/fn-v38-archive/38.10-CL-47888945.zip) | [2](https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.10-CL-47888945.zip) |  | | |
+| 38.00-CL-47722112 | [1](https://archive.org/download/fn-v38-archive/38.00-CL-47722112.zip) | [2](https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.00-CL-47722112.zip) |  | [3](https://paris-001.ai-repertoire.com:5001/internal/decrypt?token=eyJib2R5Ijoie1wia2V5XCI6XCI4cGZWZ09MUDhmYWl5R1ZzQXJ5WGtIakZIZWh0RzRjdFBsQTI5NjhkQjNzPVwiLFwiaXZcIjpcInl2MDlkMUdtV05ka3VjbjhcIixcInRhZ1wiOlwiWEt4RUV5NjZCZkdERTI1V2hZenBmZz09XCIsXCJwYXRoXCI6XCJmaWxlcy83ZS82OTIzOGM4YzFkMWQyMTJmNzdlNGI0N2VfX19Gb3J0bml0ZV9SZWxlYXNlLTM4LjExLUNMLTQ4MzkwODI4LnppcC5lbmNcIixcImZpbGVuYW1lXCI6XCIrK0ZvcnRuaXRlK1JlbGVhc2UtMzguMTEtQ0wtNDgzOTA4MjguemlwXCJ9Iiwic2lnIjoiMTMwYzdiMzA4NjhmNzVkMjE5NjE2NTM1ZTBmZDA3NTZmNzViNjMxYjQxNjNhMDQxNjkyYzk5ZTMwODZhODEyYiJ9) | |
+| 38.00-CL-47291259 | [1](https://archive.org/download/fn-v38-archive/38.00-CL-47291259.zip) | [2](https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.00-CL-47291259.zip) |  | | |
 
 ## Chapter 6 Season 4
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
@@ -104,7 +112,7 @@ ___
 | 37.10-CL-45566377 | [1](https://archive.org/download/fn-v37-archive/37.10-CL-45566377.zip) | | | | |
 | 37.10-CL-45056983 | [1](https://archive.org/download/fn-v37-archive/37.10-CL-45056983.zip) | | | | |
 | 37.00-CL-44765404 | [1](https://archive.org/download/fn-v37-archive/37.00-CL-44765404.zip) | | | | |
-| 37.00-CL-44501951 | Downloadable by manifest | | | | |
+| 37.00-CL-44501951 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
 | 37.00-CL-33501951 | [1](https://archive.org/download/fn-v37-archive/37.00-CL-33501951.zip) | | | | |
 
 ## Chapter 6 Season 3
@@ -127,67 +135,67 @@ ___
 | 35.10-CL-42696140 | [1](https://archive.org/download/fn-v35-archive/35.10-CL-42696140.zip) | | | | |
 | 35.10-CL-42476511 | [1](https://archive.org/download/fn-v35-archive/35.10-CL-42476511.zip) | | | | |
 | 35.00-CL-42223143 | [1](https://archive.org/download/fn-v35-archive/35.00-CL-42223143.zip) | | | | |
-| 35.00-CL-41994699 | [1](https://archive.org/download/fn-v35-archive/35.00-CL-41994699.zip) | [2](https://archive.org/download/v35.00-CL-41994699/v35.00-CL-41994699.zip) | [3](https://fn-builds.repressoh.it/35.00-CL-41994699.zip) | | |
+| 35.00-CL-41994699 | [1](https://archive.org/download/fn-v35-archive/35.00-CL-41994699.zip) | [2](https://archive.org/download/v35.00-CL-41994699/v35.00-CL-41994699.zip) | | | |
 
 ## Chapter 6 Season 2
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
-| 34.40-CL-41753727 | [1](https://archive.org/download/34.10-cl-40567068/34.40-CL-41753727.rar) | [2](https://fn-builds.repressoh.it/34.40-CL-41753727.rar) | | | |
+| 34.40-CL-41753727 | [1](https://archive.org/download/34.10-cl-40567068/34.40-CL-41753727.rar) |  | | | |
 | 34.30-CL-41588354 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch6/S2/34.30-CL-41588354.7z) | | | | |
 | 34.30-CL-41387772 | [1](https://archive.org/download/34.10-cl-40567068/34.30-CL-41387772.zip) | [2](https://archive.org/download/fn-v34-archive/34.30-CL-41387772.zip) | | | |
 | 34.21-CL-41092960 | [1](https://archive.org/download/34.10-cl-40567068/34.21-CL-41092960.zip) | [2](https://archive.org/download/fn-v34-archive/34.21-CL-41092960.zip) | | | |
 | 34.20-CL-40965447 | [1](https://archive.org/download/34.10-cl-40567068/34.20-CL-40965447.zip) | [2](https://archive.org/download/fn-v34-archive/34.20-CL-40965447.zip) | | | |
-| 34.10-CL-40567068 | [1](https://archive.org/download/34.10-cl-40567068/34.10-CL-40567068.zip) | [2](https://drive.google.com/file/d/19Deve2k8YjZ6qZCcNAKzcf5yxqwZY_WG/view) | [3](https://archive.org/download/fn-v34-archive/34.10-CL-40567068.zip) | | |
-| 34.00-CL-40446427 | [1](https://fn-builds.repressoh.it/34.00-CL-40446427.rar) | [2](https://archive.org/download/fn-v34-archive/34.00-CL-40446427.zip) | | | |
-| 34.00-CL-40398515 | Downloadable by manifest | | | | |
-| 34.00-CL-40228973 | Downloadable by manifest | | | | |
-| 34.00-CL-40085084 | Downloadable by manifest | | | | |
+| 34.10-CL-40567068 | [1](https://archive.org/download/34.10-cl-40567068/34.10-CL-40567068.zip) |  | [2](https://archive.org/download/fn-v34-archive/34.10-CL-40567068.zip) | | |
+| 34.00-CL-40446427 | [1](https://archive.org/download/fn-v34-archive/34.00-CL-40446427.zip) | | | |
+| 34.00-CL-40398515 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
+| 34.00-CL-40228973 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
+| 34.00-CL-40085084 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
 
 ## Chapter 6 Season 1
 
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
-| 33.30-CL-39768313 | Downloadable by manifest |  |  |
-| 33.30-CL-39435251 | Downloadable by manifest |  |  |
-| 33.20-CL-39277041 | Downloadable by manifest |  |  |
+| 33.30-CL-39768313 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 33.30-CL-39435251 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 33.20-CL-39277041 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
 | 33.20-CL-39082670 | [1](https://archive.org/download/fortniteBuild33.20/Fortnite.7z) |  |  |
-| 33.11-CL-38773622 | [1](https://dl.dropboxusercontent.com/scl/fi/v043h0oe05axhb0v65ync/33.11-CL-38773622.rar?rlkey=jgx2j2x5mvkjt9ltirvgecvvh) |  |  |
-| 33.10-CL-38630093 | Downloadable by manifest |  |  |
-| 33.00-CL-38504598 | Downloadable by manifest |  |  |
-| 33.00-CL-38324112 | Downloadable by manifest |  |  |
+| 33.11-CL-38773622 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 33.10-CL-38630093 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 33.00-CL-38504598 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 33.00-CL-38324112 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
 
 ## Chapter 5 Season 5 (Chapter 5 Season Remix)
 
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
-| 32.11-CL-38371047 | [1](https://dl.dropboxusercontent.com/scl/fi/5djmb3ll3j1nghszjfsy0/32.11-CL-38371047.rar?rlkey=skt5ix1svq2xvj1kai8wf9jew) | [2](https://fn-builds.repressoh.it/32.11-CL-38371047.rar) |  |
-| 32.11-CL-38202817 | [1](https://drive.google.com/file/d/1X-K3cyFsqswUorH-2REQEKuLwh5oaEh8/view) | [2](https://r2.ploosh.dev/32.11.zip) |  |
-| 32.10-CL-37958378 | Downloadable by manifest |  |  |
-| 32.00-CL-37770125 | Downloadable by manifest |  |  |
-| 32.00-CL-37505882 | Downloadable by manifest |  |  |
+| 32.11-CL-38371047 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |
+| 32.11-CL-38202817 | [1](https://drive.google.com/file/d/1X-K3cyFsqswUorH-2REQEKuLwh5oaEh8/view) |  |  |
+| 32.10-CL-37958378 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 32.00-CL-37770125 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 32.00-CL-37505882 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
 
 ## Chapter 5 Season 4
 
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
 | 31.41-CL-37324991 | [1](https://gofile.io/d/5KnfUv) |  |  |
-| 31.40-CL-37076506 | Downloadable by manifest |  |  |
-| 31.40-CL-36874825 | Downloadable by manifest |  |  |
-| 31.30-CL-36600465 | Downloadable by manifest |  |  |
-| 31.20-CL-36348034 | Downloadable by manifest |  |  |
-| 31.20-CL-36253989 | Downloadable by manifest |  |  |
-| 31.10-CL-35815136 | Downloadable by manifest |  |  |
-| 31.00-CL-35447195 | Downloadable by manifest |  |  |
+| 31.40-CL-37076506 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 31.40-CL-36874825 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 31.30-CL-36600465 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 31.20-CL-36348034 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 31.20-CL-36253989 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 31.10-CL-35815136 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 31.00-CL-35447195 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
 
 ## Chapter 5 Season 3
 
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
-| 30.40-CL-35235494 | Downloadable by manifest |  |  |
-| 30.30-CL-34891016 | Downloadable by manifest |  |  |
+| 30.40-CL-35235494 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 30.30-CL-34891016 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
 | 30.20-CL-34597766 | [1](https://fn-builds.repressoh.it/30.20-CL-34597766.rar) |  |  |
-| 30.20-CL-34488544 | Downloadable by manifest |  |  |
-| 30.10-CL-34399867 | Downloadable by manifest |  |  |
+| 30.20-CL-34488544 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 30.10-CL-34399867 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
 | 30.10-CL-34261954 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch5/S3/30.10-CL-34261954.7z) |  |  |
 | 30.10-CL-34184790 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch5/S3/30.10-CL-34184790.7z) |  |  |
 | 30.00-CL-33962396 | [1](https://gofile.io/d/ZjRYts) | [2](https://fn-builds.repressoh.it/30.00-CL-33962396.rar) |  |
@@ -197,48 +205,48 @@ ___
 
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
-| 29.40-CL-33629566 | [1](https://fn-builds.repressoh.it/29.40.rar) |  |  |
-| 29.40-CL-33502036 | [1](https://fn-builds.repressoh.it/29.40-CL-33502036.rar) |  |  |
-| 29.40-CL-33291686 | [1](https://fn-builds.repressoh.it/29.40-CL-33291686.rar) |  |  |
-| 29.30-CL-32982357 | Downloadable by manifest |  |  |
-| 29.20-CL-32716692 | Downloadable by manifest |  |  |
-| 29.10-CL-32567225 | Downloadable by manifest |  |  |
-| 29.10-CL-32391220 | Downloadable by manifest |  |  |
-| 29.01-CL-32291970 | Downloadable by manifest |  |  |
-| 29.00-CL-32116959 | [1](https://gofile.io/d/cw0eee) | [2](https://fn-builds.repressoh.it/29.00-CL-32116959.7z) | [3](https://fnbuilds.site/29.00-CL-32116959.7z) |
-| 29.00-CL-31978752 | Downloadable by manifest |  |  |
+| 29.40-CL-33629566 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 29.40-CL-33502036 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 29.40-CL-33291686 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 29.30-CL-32982357 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 29.20-CL-32716692 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 29.10-CL-32567225 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 29.10-CL-32391220 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 29.01-CL-32291970 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 29.00-CL-32116959 | [1](https://gofile.io/d/cw0eee) |  |  |
+| 29.00-CL-31978752 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
 
 ## Chapter 5 Season 1
 
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
 | 28.30-CL-31511038 | [1](https://archive.org/download/28.30-cl-31511038.7z/28.30-CL-31511038.7z) |  |  |
-| 28.20-CL-31286935 | [1](https://cold4.gofile.io/download/web/3b372482-5a4d-4102-a153-c4e29faa5626/c5s1.zip) |  |  |
-| 28.20-CL-31165234 | [1](https://fn-builds.repressoh.it/28.20-CL-31165234-Windows.zip) | [2](https://buzzheavier.com/hobg7favbekg) | [3](https://gofile.io/d/e9BQ6I) |
-| 28.10-CL-30835064 | Downloadable by manifest |  |  |
-| 28.10-CL-30676362 | [1](https://fnbuilds.site/28.10-CL-30676362.7z) |  |  |
-| 28.01-CL-30313795 | [1](https://fnbuilds.site/28.01-CL-30313795.7z) |  |  |
-| 28.01-CL-30106568 | [1](https://fnbuilds.site/28.01-CL-30106568.7z) |  |  |
-| 28.00-CL-29915848 | [1](https://gofile.io/d/uDTffQ) | [2](https://fn-builds.repressoh.it/28.00-CL-29915848.7z) |  |
+| 28.20-CL-31286935 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 28.20-CL-31165234 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |
+| 28.10-CL-30835064 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 28.10-CL-30676362 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 28.01-CL-30313795 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 28.01-CL-30106568 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 28.00-CL-29915848 | [1](https://gofile.io/d/uDTffQ) |  |  |
 
 ## Chapter 4 Season 5 (Chapter 4 Season OG)
 
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
-| 27.11-CL-29739262 | [1](https://gofile.io/d/MfJHqg) | [2](https://pub-220306d029514fbba26c1ffc2ef76e3e.r2.dev/27.11.rar) |  |
-| 27.10-CL-29552510 | [1](https://cdn.cbn.lol/27.10) |  |  |
-| 27.00-CL-29072304 | [1](https://cdn.cbn.lol/27.00) |  |  |
+| 27.11-CL-29739262 | [1](https://gofile.io/d/MfJHqg) | [2](https://pub-220306d029514fbba26c1ffc2ef76e3e.r2.dev/27.11.rar) | [3](https://builds.rebootfn.org/windows-27.11.rar) |
+| 27.10-CL-29552510 | [1](https://cdn.cbn.lol/27.10) | [2](https://builds.rebootfn.org/windows-27.10.zip) |  |
+| 27.00-CL-29072304 | [1](https://cdn.cbn.lol/27.00) | [2](https://builds.rebootfn.org/windows-27.00.zip) |  |
 
 ## Chapter 4 Season 4
 
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
-| 26.30-CL-28688692 | [1](https://fn-builds.repressoh.it/26.30-CL-28688692.zip) |  |  |
-| 26.30-CL-28509302 | [1](https://fn-builds.repressoh.it/26.30-CL-28509302.zip) | [2](https://fn-builds.com/build/fortnite-26-30-cl-28509302-zip) |  |
-| 26.20-CL-28096793 | Downloadable by manifest |  |  |
-| 26.10-CL-27681420 | Downloadable by manifest |  |  |
-| 26.00-CL-27424790 | Downloadable by manifest |  |  |
-| 26.00-CL-27233190 | Downloadable by manifest |  |  |
+| 26.30-CL-28688692 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 26.30-CL-28509302 | [1](https://fn-builds.com/build/fortnite-26-30-cl-28509302-zip)   |  |  |
+| 26.20-CL-28096793 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 26.10-CL-27681420 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 26.00-CL-27424790 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
+| 26.00-CL-27233190 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |
 
 ## Chapter 4 Season 3
 
@@ -256,35 +264,35 @@ ___
 
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
-| 24.40-CL-25595478 | [1](https://gofile.io/d/cw0eee) | [2](https://fn-builds.repressoh.it/24.40-CL-25595478.zip) | [3](https://cold1.gofile.io/download/web/1944b17a-2576-434b-aa93-72fc7a19c4b5/24.40-CL-25595478.zip) |  |  |
+| 24.40-CL-25595478 | [1](https://gofile.io/d/cw0eee) |  |  |
 | 24.40-CL-25521145 | [1](https://archive.org/download/fn-v24-archive/24.40-CL-25521145.7z) |  |  |  |  |
 | 24.40-CL-25420516 | [1](https://archive.org/download/fn-v24-archive/24.40-CL-25420516.7z) |  |  |  |  |
 | 24.30-CL-25347382 | [1](https://archive.org/download/fn-v24-archive/builds/24.30-CL-25347382.7z) |  |  |  |  |
 | 24.30-CL-25210886 | [1](https://archive.org/download/fn-v24-archive/builds/24.30-CL-25210886.7z) |  |  |  |  |
-| 24.20-CL-25156858 | [1](https://gofile.io/d/cw0eee) | [2](https://fn-builds.repressoh.it/24.20-CL-25156858.zip) | [3](https://archive.org/download/24.20-cl-25156858/24.20-CL-25156858.zip) | [4](https://archive.org/download/fn-v24-archive/builds/24.20-CL-25156858.7z) |  |
+| 24.20-CL-25156858 | [1](https://gofile.io/d/cw0eee) | [2](https://archive.org/download/24.20-cl-25156858/24.20-CL-25156858.zip) | [3](https://archive.org/download/fn-v24-archive/builds/24.20-CL-25156858.7z) |  |
 | 24.20-CL-25058254 | [1](https://archive.org/download/fn-v24-archive/builds/24.20-CL-25058254.7z) |  |  |  |  |
 | 24.20-CL-25019967 | [1](https://archive.org/download/fn-v24-archive/builds/24.20-CL-25019967.7z) |  |  |  |  |
-| 24.20-CL-24939793 | [1](https://r2.ploosh.dev/24.20.zip) | [2](https://r2.kovryn.xyz/24.20.zip) | [3](https://cdn.cbn.lol/24.20) | [4](https://fn-builds.repressoh.it/24.20-CL-24939793.rar) | [5](https://archive.org/download/fn-v24-archive/builds/24.20-CL-24939793.7z) |
-| 24.10-CL-24903530 | [1](https://fnbuilds.site/24.10-CL-24903530.7z) |  |  |  |  |
-| 24.10-CL-24770548 | [1](https://fnbuilds.site/24.10-CL-24770548.7z) |  |  |  |  |
+| 24.20-CL-24939793 | [1](https://cdn.cbn.lol/24.20) | [2](https://archive.org/download/fn-v24-archive/builds/24.20-CL-24939793.7z) |  |  |  |
+| 24.10-CL-24903530 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |  |  |
+| 24.10-CL-24770548 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |  |  |
 | 24.01-CL-24757023 | Lost |  |  |  |  |
-| 24.01-CL-24672685 | [1](https://fnbuilds.site/24.01-CL-24672685.7z) |  |  |  |  |
+| 24.01-CL-24672685 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) |  |  |  |  |
 | 24.00-CL-24554913 | [1](https://gofile.io/d/GOSBx4) | [2](https://fn-builds.repressoh.it/24.00-CL-24554913.zip) | [3](https://archive.org/download/fn-v24-archive/builds/24.00-CL-24554913.7z) |  |  |
 
 ## Chapter 4 Season 1
 
 | Build | Download | Alternative Download 1 | Alternative Download 2 | Alternative Download 3 | Alternative Download 4 | Alternative Download 5 |
 |---|---|---|---|---|---|---|
-| 23.50-CL-24441668 | Downloadable by manifest |  |  |
+| 23.50-CL-24441668 | [1](https://archive.org/download/23.20-cl-23783097/23.50-CL-24441668.zip) |  |  |
 | 23.50-CL-24376996 | Lost |  |  |
-| 23.40-CL-24087481 | Downloadable by manifest |  |  |
-| 23.30-CL-23986860 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch4/S1/23.30-CL-23986860.7z) |  |  |
+| 23.40-CL-24087481 | [1](https://archive.org/download/23.20-cl-23783097/23.40-CL-24087481.zip) |  |  |
+| 23.30-CL-23986860 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch4/S1/23.30-CL-23986860.7z) | [2](https://builds.rebootfn.org/windows-23.30.zip) | [3]() |
 | 23.30-CL-23901854 | Lost |  |  |
-| 23.20-CL-23783097 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch4/23.20-CL-23783097.7z) |  |  |
+| 23.20-CL-23783097 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch4/23.20-CL-23783097.7z) | [2](https://builds.rebootfn.org/windows-23.20.zip) | [3](https://archive.org/download/23.20-cl-23783097/23.20-CL-23783097.zip) |
 | 23.20-CL-23659353 | Unavailable |  |  |
 | 23.10-CL-23572221 | Unavailable |  |  |
-| 23.10-CL-23443094 | [1](https://cdn.cbn.lol/23.10) |  |  |
-| 23.00-CL-23344627 | Unavailable |  |  |
+| 23.10-CL-23443094 | [1](https://cdn.cbn.lol/23.10) | [2](https://builds.rebootfn.org/windows-23.10.rar) | [3](https://archive.org/download/23.20-cl-23783097/23.10-CL-23443094.rar) |
+| 23.00-CL-23344627 | [1](https://archive.org/download/23.20-cl-23783097/23.00-CL-23344627.7z) |  |  |
 
 ## Chapter 3 Season 4
 
@@ -348,7 +356,7 @@ ___
 | 19.10-CL-18675304 | [1](https://archive.org/download/fn-v19-archives/19.10-CL-18675304.7z) |  |  |
 | 19.10-CL-18640491 | Lost |  |  |
 | 19.10-CL-18581131 | Lost |  |  |
-| 19.01-CL-18489740 | [1](https://r2.ploosh.dev/19.01.zip) | [2](https://archive.org/download/Fortnite-19.01-CL-18489740.zip/19.01-CL-18489740.zip) |  |
+| 19.01-CL-18489740 | [1](https://archive.org/download/fn-v19-archives/19.01-CL-18489740.7z) | [2](https://archive.org/download/Fortnite-19.01-CL-18489740.zip/19.01-CL-18489740.zip) |  |
 | 19.01-CL-18415863 | Unavailable |  |  |
 | 19.00-CL-18380290 | Unavailable |  |  |
 | 19.00-CL-18335626 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/19.00-CL-18335626.7z) | [2](https://archive.org/download/fn-v19-archives/19.00-CL-18335626.7z) |  |
@@ -475,8 +483,8 @@ ___
 | 12.50-CL-13044369 | Lost |  |  |
 | 12.41-CL-12905909 | [1](https://cdn.cbn.lol/12.41) | [2](https://archive.org/download/fortnite-12.41_202603/Fortnite%2012.41.zip) | [3](https://archive.org/download/fn-v12-archive/builds/12.41-CL-12905909.7z) |
 | 12.40-CL-12837456 | [1](https://archive.org/download/fn-v12-archive/builds/12.40-CL-12837456.7z) |  |  |
-| 12.30-CL-12624643 | [1](https://transfer.it/t/ODMlq0hH0BxD) | [2](https://archive.org/download/12.30-cl-12624643.7z/12.30-CL-12624643.7z) | [3](https://download.fn-archive.com/FortniteClient-12.30-CL-12624643.7z) |
-| 12.30-CL-12493283 | Unavailable |  |  |
+| 12.30-CL-12624643 | [1](https://archive.org/download/12.30-cl-12624643.7z/12.30-CL-12624643.7z) | [3](https://download.fn-archive.com/FortniteClient-12.30-CL-12624643.7z) | [1](https://archive.org/download/fn-v12-archive/builds/12.30-CL-12624643.7z)
+| 12.30-CL-12493283 | [1](https://archive.org/download/fn-v12-archive/builds/12.30-CL-12493283.7z) |  |  |
 | 12.21-CL-12353830 | [1](https://drive.google.com/file/d/1BA5MJEyE9tje7-frrUrXrRcyhnIrcBEP/view) | [2](https://archive.org/download/fn-v12-archive/builds/12.21-CL-12353830.7z) |  |
 | 12.20-CL-12236980 | Lost |  |  |
 | 12.20-CL-12170032 | [1](https://archive.org/download/fn-v12-archive/builds/12.20-CL-12170032.7z) |  |  |

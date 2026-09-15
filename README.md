@@ -43,7 +43,7 @@ ___
 - Hyperion/Byfron: An anti-tamper shield that encrypts game files to block reverse engineering. (v21.20 - v22.20) and a bypass will be needed in order to use it, which Project Carbon has or you can just create your own.
 - EAC Protection: Active on builds v30.10 and above. Requires a patched .exe or an alternative bypass method in order to launch it or you can use Project Carbon.
 
-## Chapter 7 Season 3
+## Chapter 7 Season 4
 | Build | Download | Mirror 1 | Mirror 2 | Mirror 3 | Mirror 4 | Mirror 5 |
 |---|---|---|---|---|---|---|
 | 42.10-CL-57819926 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |

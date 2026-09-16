@@ -40,6 +40,7 @@ ___
 ## Builds Info
 
 - Hyperion/Byfron: An anti-tamper shield that encrypts game files to block reverse engineering. (v21.20 - v22.20) and a bypass will be needed in order to use it, which Project Carbon has or you can use this https://drive.google.com/drive/folders/1aYj-6JT2kS346jPtDfDJ634rxPjslD-M open sourced patched exe's and dll's for byfron (Credits to ploosh for making these bypasses).
+
 - EAC Protection: Active on builds v30.10 and above. Requires a patched .exe or an alternative bypass method in order to launch it or you can use Project Carbon.
 
 ## Chapter 7 Season 4

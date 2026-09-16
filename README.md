@@ -2,8 +2,7 @@
 *(Fork of Llamaqwerty's Archive)*
 
 ### Links
-* Main Site: [builds.fnbuilds.site](https://builds.fnbuilds.site/)
-* Other Site: [fn-archive.vercel.app](https://fn-archive.vercel.app/)
+
 * Discord Server: [Join Discord](https://discord.gg/Sy4ywdyqvr)
 
 ---
@@ -286,12 +285,12 @@ ___
 | 23.50-CL-24441668 | [1](https://archive.org/download/23.20-cl-23783097/23.50-CL-24441668.zip) |  |  |
 | 23.50-CL-24376996 | Lost |  |  |
 | 23.40-CL-24087481 | [1](https://archive.org/download/23.20-cl-23783097/23.40-CL-24087481.zip) |  |  |
-| 23.30-CL-23986860 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch4/S1/23.30-CL-23986860.7z) | [2](https://builds.rebootfn.org/windows-23.30.zip) | [3]() |
+| 23.30-CL-23986860 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch4/S1/23.30-CL-23986860.7z) | [2](https://builds.rebootfn.org/windows-23.30.zip) |  |
 | 23.30-CL-23901854 | Lost |  |  |
 | 23.20-CL-23783097 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch4/23.20-CL-23783097.7z) | [2](https://builds.rebootfn.org/windows-23.20.zip) | [3](https://archive.org/download/23.20-cl-23783097/23.20-CL-23783097.zip) |
 | 23.20-CL-23659353 | Unavailable |  |  |
-| 23.10-CL-23572221 | [1](https://www.fortforge.co.uk/download/b2?key=builds%2F23.10-CL-23572221.zip&token=v1.yi3n_Jo7dYy7uLBuSWACp_CV-xQ2OWXAFsLsvb5Jwzg) |  |  |
-| 23.10-CL-23443094 | [1](https://cdn.cbn.lol/23.10) | [2](https://builds.rebootfn.org/windows-23.10.rar) | [3](https://archive.org/download/23.20-cl-23783097/23.10-CL-23443094.rar) |
+| 23.10-CL-23572221 | [1](https://www.fortforge.co.uk/download/b2?key=builds%2F23.10-CL-23572221.zip&token=v1.yi3n_Jo7dYy7uLBuSWACp_CV-xQ2OWXAFsLsvb5Jwzg) | [2](https://fn-builds.com/build/fortnite-23-10-cl-23572221-7z) <!-- credits to jalen for this build im just the person who uploaded it--> |  |
+| 23.10-CL-23443094 | [1](https://cdn.cbn.lol/23.10) | [2](https://builds.rebootfn.org/windows-23.10.rar) | [3](https://archive.org/download/23.20-cl-23783097/23.10-CL-23443094.rar) | [4](https://fn-builds.com/build/fortnite-23-10-cl-23443094-7z)
 | 23.00-CL-23344627 | [1](https://archive.org/download/23.20-cl-23783097/23.00-CL-23344627.7z) |  |  |
 
 ## Chapter 3 Season 4

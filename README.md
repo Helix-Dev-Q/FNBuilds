@@ -333,15 +333,15 @@ ___
 
 | Build | Download | Mirror 1 | Mirror 2 | Mirror 3 | Mirror 4 | Mirror 5 |
 |---|---|---|---|---|---|---|
-| 20.40-CL-20244966 | [1](https://cdn.cbn.lol/20.40) |  |
+| 20.40-CL-20244966 | [1](https://cdn.cbn.lol/20.40) | [2](https://archive.org/download/fn-v20-archive/builds/20.40-CL-20244966.7z) |
 | 20.40-CL-20175294 | Lost |  |  |  |
 | 20.30-CL-20037261 | Unavailable |  |  |  |
-| 20.30-CL-19950687 | [1](https://cdn.cbn.lol/20.30) |  |  |  |
+| 20.30-CL-19950687 | [1](https://cdn.cbn.lol/20.30) | [2](https://archive.org/download/fn-v20-archive/builds/20.30-CL-19950687.7z) |  |  |
 | 20.20-CL-19896998 | Unavailable |  |  |  |
-| 20.20-CL-19751212 | [1](https://cdn.cbn.lol/20.20) |  |  |
-| 20.10-CL-19598943 | [1](https://cdn.cbn.lol/20.10) |  |
+| 20.20-CL-19751212 | [1](https://cdn.cbn.lol/20.20) | [2](https://archive.org/download/fn-v20-archive/builds/20.20-CL-19751212.7z) |  |
+| 20.10-CL-19598943 | [1](https://cdn.cbn.lol/20.10) | [2](https://archive.org/download/fn-v20-archive/builds/20.10-CL-19598943.7z) |
 | 20.00-CL-19532288 | Unavailable |  |  |  |
-| 20.00-CL-19458861 | [1](https://cdn.cbn.lol/20.00) |
+| 20.00-CL-19458861 | [1](https://cdn.cbn.lol/20.00) | [2](https://archive.org/download/fn-v20-archive/builds/20.00-CL-19458861.7z)
 | 20.00-CL-19381079 | Unavailable |  |  |  |
 
 ## Chapter 3 Season 1
@@ -351,7 +351,7 @@ ___
 | 19.40-CL-19215531 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/19.40-CL-19215531.7z) | [2](https://archive.org/download/fn-v19-archives/19.40-CL-19215531.7z) | [3](https://builds.rebootfn.org/windows-19.40.zip) |
 | 19.40-CL-19167615 | Unavailable |  |  |
 | 19.30-CL-19027703 | [1](https://archive.org/download/fn-v19-archives/19.30-CL-19027703.7z) | [2](https://cdn.cbn.lol/19.30) | [3](https://builds.rebootfn.org/windows-19.30.rar) |
-| 19.30-CL-18948597 | Unavailable |  |  |
+| 19.30-CL-18948597 | [1](https://archive.org/download/fn-v19-archive/builds/19.30-CL-18948597.7z) |  |  |
 | 19.20-CL-18775446 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/S1/19.20-CL-18775446.7z) | [2](https://archive.org/download/fn-v19-archives/19.20-CL-18775446.7z) | [3](https://archive.org/download/19.20-cl-18775446/19.20-CL-18775446.zip) | [4](https://builds.rebootfn.org/windows-19.20.zip) |
 | 19.10-CL-18675304 | [1](https://archive.org/download/fn-v19-archives/19.10-CL-18675304.7z) |  |  |
 | 19.10-CL-18640491 | Lost |  |  |
@@ -634,9 +634,9 @@ ___
 |---|---|---|---|---|---|---|
 | 4.5-CL-4166199 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch1/S4/4.5-CL-4166199.7z) | [2](https://drive.google.com/file/d/1uZ2IO1aY41HmWgq-hb-eyWtXnomkj0nc/view) | [3](https://drive.usercontent.google.com/download?id=1uZ2IO1aY41HmWgq-hb-eyWtXnomkj0nc&export=download&authuser=0&confirm=t&uuid=8eb7003a-f47a-4504-b273-473dc03044c7&at=AGN2oQ33H6PLtlygxYLcI9XPFa1u%3A1772879758174) |
 | 4.5-CL-4159770 | [1](https://builds.rebootfn.org/4.5.rar) |  |  |
-| 4.4.x-CL-4132537 | Lost |  |  |
+| 4.4.x-CL-4132537 | [1](https://dl.fortforge.co.uk/download/c29f2782-45ad-4ec3-b6ac-457632096fca/build) |  |  |
 | 4.4-CL-4127312 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch1/S4/4.4-CL-4127312.7z) | [2](https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view) |  |
-| 4.4-CL-4117433 | [1](https://builds.rebootfn.org/4.4.rar) |  |  |
+| 4.4-CL-4117433 | [1]() |  |  |
 | 4.3-CL-4103483 | Lost |  |  |
 | 4.3-CL-4095806 | Lost |  |  |
 | 4.2-CL-4072250 | [1](https://builds.rebootfn.org/4.2.zip) |  |  |
@@ -683,16 +683,16 @@ ___
 | Release-Cert-CL-3785438 | Lost |  |  |
 | Release-Cert-CL-3775276 | [1](https://builds.rebootfn.org/1.9.1.rar) | [2](https://archive.org/download/fortnite-release-1.9.1-cl-3775276/%2B%2BFortnite%2BRelease-1.9.1-CL-3775276.zip) | [2](https://archive.org/download/fn-v1-archive/builds/1.9.1-Cert-CL-3775276.7z) |
 | Release-Live-CL-3757339 | [1](https://builds.rebootfn.org/1.9.rar) | [2](https://archive.org/download/fortnite-release-1.9-cl-3757339/%2B%2BFortnite%2BRelease-1.9-CL-3757339.zip) | [3](https://archive.org/download/fn-v1-archive/builds/1.9-Live-CL-3757339.7z) |
-| Release-Live-CL-3741772 | [1](https://builds.rebootfn.org/1.8.2.rar) | [2](https://archive.org/download/fortnite-release-1.8.2-cl-3741772/%2B%2BFortnite%2BRelease-1.8.2-CL-3741772.rar) |  |
-| Release-Live-CL-3729133 | [1](https://builds.rebootfn.org/1.8.1.rar) | [2](https://drive.google.com/file/d/1LRDuxDPIOLwW0rXu0tbQL8f1s_sCHm_K/view) | [3](https://archive.org/download/fortnite-release-1.8.1-cl-3729133/%2B%2BFortnite%2BRelease-1.8.1-CL-3729133.rar) |
-| Release-Live-CL-3724489 | [1](https://builds.rebootfn.org/1.8.rar) | [2](https://archive.org/download/1.8_20241223/1.8.rar) |  |
+| Release-Live-CL-3741772 | [1](https://builds.rebootfn.org/windows-1.8.2.rar) | [2](https://archive.org/download/fortnite-release-1.8.2-cl-3741772/%2B%2BFortnite%2BRelease-1.8.2-CL-3741772.rar) |  |
+| Release-Live-CL-3729133 | [1](https://builds.rebootfn.org/windows-1.8.1.rar) | [2](https://drive.google.com/file/d/1LRDuxDPIOLwW0rXu0tbQL8f1s_sCHm_K/view) | [3](https://archive.org/download/fortnite-release-1.8.1-cl-3729133/%2B%2BFortnite%2BRelease-1.8.1-CL-3729133.rar) |
+| Release-Live-CL-3724489 | [1](https://builds.rebootfn.org/windows-1.8.rar) | [2](https://archive.org/download/1.8_20241223/1.8.rar) |  |
 
 ## Chapter 1 Season 0
 
 | Build | Download | Mirror 1 | Mirror 2 | Mirror 3 | Mirror 4 | Mirror 5 |
 |---|---|---|---|---|---|---|
-| Release-Cert-CL-3700114 | [1](https://builds.rebootfn.org/1.7.2.zip) | [2](https://drive.google.com/file/d/1A3Y2werWd5mlbp2MlUeP8NL5sEXy8lOn/view) | [3](https://archive.org/download/fn-v0-archive/1.7.2-CL-3700114.zip) | [4](https://archive.org/download/1.7.2_202412/1.7.2.zip) |  |
+| Release-Cert-CL-3700114 | [1](https://builds.rebootfn.org/windows-1.7.2.zip) | [2](https://drive.google.com/file/d/1A3Y2werWd5mlbp2MlUeP8NL5sEXy8lOn/view) | [3](https://archive.org/download/fn-v0-archive/1.7.2-CL-3700114.zip) | [4](https://archive.org/download/1.7.2_202412/1.7.2.zip) |  |
 | Release-Cert-CL-3681159 | Lost |  |  |  |  |
 | Release-Cert-CL-3668626 | Lost |  |  |  |  |
-| Cert-CL-3541083 | [1](https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-21_microsoft_windows_1.2-cl-3541083/fortnite_v1.2.rar) | [2](https://archive.org/download/fn-v0-archive/1.2.0-CL-3541083.zip) |  |  |
+| Cert-CL-3541083 | [1](https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-21_microsoft_windows_1.2-cl-3541083/fortnite_v1.2.rar) | [2](https://archive.org/download/fn-v0-archive/1.2.0-CL-3541083.zip) | [3](https://builds.rebootfn.org/windows-1.02.rar) |  |
 | Cert-CL-3532353 | [1](https://fnbuilds.site/Cert-CL-3532353.7z) | [2](https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z) | [3](https://drive.google.com/file/d/1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37/view) | [4](https://archive.thedatadungeon.com/fortnite_2017/builds/2017-07-20_microsoft_windows_cert-cl-3532353/fortnite.7z) |  |

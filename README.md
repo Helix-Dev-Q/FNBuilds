@@ -41,13 +41,23 @@ ___
 
 - Hyperion/Byfron: An anti-tamper shield that encrypts game files to block reverse engineering. (v21.20 - v22.20) and a bypass will be needed in order to use it, which Project Carbon has or you can use this https://drive.google.com/drive/folders/1aYj-6JT2kS346jPtDfDJ634rxPjslD-M open sourced patched exe's and dll's for byfron (Credits to ploosh for making these bypasses).
 
-- EAC Protection: Active on builds v30.10 and above. Requires a patched .exe or an alternative bypass method in order to launch it or you can use Project Carbon.
+- EAC Protection: Active on builds v30.10 and above. Requires a patched .exe or an alternative bypass method in order to launch it or you can use Project Carbon or use [Kronos CLI](https://github.com/Helix-Dev-Q/Kronos-CLI) (made by me!).
+
+## Chapter 7 Season 5 (Chapter 7 Treasure Hunters)
+| Build | Download | Mirror 1 | Mirror 2 | Mirror 3 | Mirror 4 | Mirror 5 |
+|---|---|---|---|---|---|---|
+| 43.00-CL-59596594 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
 
 ## Chapter 7 Season 4
 | Build | Download | Mirror 1 | Mirror 2 | Mirror 3 | Mirror 4 | Mirror 5 |
 |---|---|---|---|---|---|---|
+| 42.40-CL-59343437 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
+| 42.40-CL-59086525 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
+| 42.30-CL-58813929 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
+| 42.30-CL-58557680 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
+| 42.20-CL-58011042 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
 | 42.10-CL-57819926 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
-| 42.10-CL-57819926 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
+| 42.10-CL-57566230 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
 | 42.00-CL-56878558 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | | 
 | 42.00-CL-57316517 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
 
@@ -298,13 +308,13 @@ ___
 
 | Build | Download | Mirror 1 | Mirror 2 | Mirror 3 | Mirror 4 | Mirror 5 |
 |---|---|---|---|---|---|---|
-| 22.40-CL-23070899 | [1](https://fn-builds.com/build/fortnite-22-40-cl-23070899-zip) | [2](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/22.20-CL-22600409.7z) | [3](https://gofile.io/d/uwbcWq) |  |
-| 22.30-CL-22803135 | [1](https://www.fortforge.co.uk/download/b2?key=builds%2F22.30-CL-22803135.zip&token=v1.C1BDbIWyhOOwvPmTgN0QJwtaop0xsFIdSjm1H_2J4zA) |  |  |
-| 22.20-CL-22600409 | [1](https://buildsfn.s3.us-east-005.backblazeb2.com/Ch3/22.20-CL-22600409.7z) |  |  |
+| 22.40-CL-23070899 | [1](https://fn-builds.com/build/fortnite-22-40-cl-23070899-zip) | [2](https://archive.org/download/fn-v22-archive/builds/22.40-CL-23070899.7z) | [3](https://gofile.io/d/uwbcWq) |  |
+| 22.30-CL-22803135 | [1](https://www.fortforge.co.uk/download/b2?key=builds%2F22.30-CL-22803135.zip&token=v1.C1BDbIWyhOOwvPmTgN0QJwtaop0xsFIdSjm1H_2J4zA) | [2](https://archive.org/download/fn-v22-archive/builds/22.30-CL-22803135.7z) |  |
+| 22.20-CL-22600409 | [1](https://archive.org/download/fn-v22-archive/builds/22.20-CL-22600409.7z) |  |  |
 | 22.20-CL-22523251 | Lost |  |  |
-| 22.10-CL-22429549 | [1](https://cdn.cbn.lol/22.10) |  |  |
+| 22.10-CL-22429549 | [1](https://cdn.cbn.lol/22.10) | [2](https://archive.org/download/fn-v22-archive/builds/22.10-CL-22429549.7z) |  |
 | 22.10-CL-22240570 | Lost |  |  |
-| 22.00-CL-22149829 | [1](https://cdn.cbn.lol/22.00) |  |  |
+| 22.00-CL-22149829 | [1](https://cdn.cbn.lol/22.00) | [2](https://archive.org/download/fn-v22-archive/builds/22.00-CL-22149829.7z) |  |
 | 22.00-CL-22107157 | Lost |  |  |
 | 22.00-CL-22072684 | Lost |  |  |
 | 22.00-CL-22026835 | Lost |  |  |

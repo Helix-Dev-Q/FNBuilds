@@ -123,7 +123,6 @@ ___
 | 37.10-CL-45056983 | [1](https://archive.org/download/fn-v37-archive/37.10-CL-45056983.zip) | | | | |
 | 37.00-CL-44765404 | [1](https://archive.org/download/fn-v37-archive/37.00-CL-44765404.zip) | | | | |
 | 37.00-CL-44501951 | [Use Legendary Sharp](https://github.com/Ducki67/Legendary-Sharp) | | | | |
-| 37.00-CL-33501951 | [1](https://archive.org/download/fn-v37-archive/37.00-CL-33501951.zip) | | | | |
 
 ## Chapter 6 Season 3
 | Build | Download | Mirror 1 | Mirror 2 | Mirror 3 | Mirror 4 | Mirror 5 |
